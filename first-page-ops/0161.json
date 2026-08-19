@@ -1,0 +1,2334 @@
+[
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "HowtoGetYourSIGGRAPHPaperRejected",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 168.714,
+      "y": 728.217
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "JimKajiya,SIGGRAPH93PapersChair",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 223.8929,
+      "y": 706.3018
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "1Introduction",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 674.7569
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "EveryoneknowswhatacceptableSIGGRAPHpaperslooklike:",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 653.8947999999999
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "justlookintheproceedings.Whenoneonlyseestheacceptedpa-",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 643.9319099999999
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "persandnottherejectedones,itiseasytogetthewrongimpression",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 633.9690199999999
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "ofwhatitisthatSIGGRAPHlikesanddoesn'tlike.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 624.0061299999999
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "I'vesubmittedalotofpapersthatSIGGRAPHdidn'tlike,aswell",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 607.1854299999999
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "asafewtheydid.Also,I'vebeenonthepaperscommitteeafew",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 597.2221499999998
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "timesandknowwhatitistheylookfor.Thisnotetellsyousome-",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 587.2588699999998
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "thingaboutwhathappenstoyourpaperasitgoesthroughthere-",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 577.2955899999997
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "viewingprocessaswellaswhatpeoplediscusswhenthey'retrying",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 567.3323099999997
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "todecidewhethertoacceptorrejectyourpaper.I'lltrytotellyou",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 557.3690299999996
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "everythingI'velearnedabouttheSIGGRAPHsecret:WhatSIG-",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 547.4057499999996
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "GRAPHwants,andhowyoucangiveittothemsothey'llaccept",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 537.4424699999995
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "yourpaper.I'llalsotalkaboutsomeofthe\u0003awsinthereviewing",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 527.4791899999994
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "processandhowyoucanprotectyourselfagainstthem.Finally,I",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 517.5159099999994
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "wanttosharesomethoughtsonthepresentcourseandthefutureof",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 507.5526299999994
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "technicalpapersforSIGGRAPH.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 497.5893499999994
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Beforewedothis,IwouldliketosaywhySIGGRAPHreviewsare",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 480.7682499999994
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "donethewaytheyare.Therearetworeasons.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 470.8053599999994
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "The\u0002rstreasonistheprincipalfeatureoftheSIGGRAPHconfer-",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 453.9842599999994
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "encepublicationthatmakesitveryattractive:speed.SIGGRAPH",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 444.02136999999937
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "isoneofthefewhigh-qualitypublicationsthatcanpublishapaper",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 434.05847999999935
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "inlessthanayear.In10weeks,SIGGRAPHcandowhatother",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 424.09558999999933
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "majorpublicationstake10monthstodo.Inafast-moving\u0002eldlike",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 414.1326999999993
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "computergraphics,thisiscrucial.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 404.1698099999993
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "ThesecondreasonisthatSIGGRAPHhaschosenaverydiffer-",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 387.3491099999993
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "entqualitystrategythanmostotherconferences.Whileothercon-",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 377.3858299999993
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "ferenceswillacceptpapersofincompleteworkinprogress,SIG-",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 367.4225499999993
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "GRAPHhaschosentoshootforthehighestqualitypapersofcom-",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 357.4592699999993
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "pleteresults.Becauseofthis,80%ofsubmittedpapersarere-",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 347.4959899999993
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "MacArthurawardseachyearthanSIGGRAPHtechnicalpapers.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 317.60614999999933
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Theemphasisonbothspeedandqualitymakesthereviewingpro-",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 300.78504999999933
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "cessforSIGGRAPHverydifferentfromofajournaloranother",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 290.8221599999993
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "conference.Thespeedandqualityemphasisalsoputsseverestrains",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 280.8592699999993
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "onthereviewingprocess.Inajournal,thereviewerandauthorscan",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 270.8963799999993
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "haveadialogwhereshortcomingsandmisunderstandingscanbere-",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 260.93348999999927
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "solvedoveraleisurelypace.Also,eveniftherearesigni\u0002cant\u0003aws",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 250.97059999999928
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "inapaperforanotherconference,thechancesarethatstrengthswill",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 241.0077099999993
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "overcometheweaknessesinthejudging.InSIGGRAPH,ifthere-",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 231.0448199999993
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "viewersmisunderstandyourpaper,orifsome\u0003awinyourpaperis",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 221.08192999999932
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "found,you'redead.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 211.11903999999933
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "ThereviewingprocessforSIGGRAPHisfarfromperfect,although",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 194.29833999999934
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "mosteveryoneisgivingittheirbesteffort.Theverynatureofthe",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 184.33505999999934
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "processissuchthatmanyreviewerswillnotbeabletospendnearly",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 174.37177999999935
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "enoughtimeweighingthenuancesofyourpaper.Thisissomething",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 164.40849999999935
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "forwhichyoumustcompensateinordertobesuccessful.ButI'll",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 154.44521999999935
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "gettothatlater.First,let'stalkaboutwhathappenstoyourpaper.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 144.48193999999935
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "2Thereviewingprocess",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 119.64213999999936
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "HowdoesyourpapergetacceptedorrejectedbySIGGRAPH?",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 98.78003999999936
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Let'sfollowitthroughtheentireprocess.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 88.81714999999936
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "First,youworkformonths,slavingawayatequations,hacking",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 53.9999,
+      "y": 71.99604999999936
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "code,andfeedingslidestoyourlocalphoto\u0002nisher.SIGGRAPH",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 674.7530499999993
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "plishingsuperhumantaskstomaketheFederalExpressdeadlineat",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 644.8643799999993
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "theverylastminute.Yoursixcopiesaretakenbythecouriersafely",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 634.9014899999993
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "tothepaperschair,thenyou-andeveryonearoundyou-collapse.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 624.9385999999993
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Thenextday,asyouandhundredsofothermorlocksaroundthe",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 607.7752999999992
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "worldcomeoutofsub-basementstoblinkatthe\u0002rstnaturalsun-",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 597.8124099999992
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "lightyou'veseeninweeks,isdeadlineday.Fully85%ofthe200",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 587.8495199999992
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "orsoSIGGRAPHsubmissionsarriveatthepaperschairdoorstep.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 577.8866299999992
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Everyoneelsehasworkeduntilthelastpossibleminute,too.The",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 567.9237399999992
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "paperschairandseveraldedicatedassistantsthenspendtheirlong",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 557.9608499999991
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "all-nightergivingyourpaperanumber,enteringitintothedatabase,",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 547.9979599999991
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "andtypingandmailingaletteracknowledgingreceiptofyourpa-",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 538.0350699999991
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "per.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 528.0721799999991
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Immediatelyafterthis,thepaperschair,alongwithtwoorthree",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 510.9182799999991
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "othersonthepaperscommittee,sortsthroughallthepapersand",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 500.95538999999906
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "assignsyourpapertothepileforaparticularseniorreviewer.The",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 490.99249999999904
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "papersprogramcommitteeismadeupof25orsooftheseseniorre-",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 481.029609999999
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "viewers.Withthelargenumberofpapers,thispartitioningprocess",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 471.066719999999
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "takesafullday.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 461.103829999999
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Onecopyofyourpaperisretainedbythepaperschair.Onecopy",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 443.940929999999
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "ismailedtothesecondaryreviewer,andfourcopiesaremailedto",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 433.987019999999
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "theseniorreviewer.ThuseachreviewerreceivesalargeFederal",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 424.024129999999
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Expressboxofyourpapersandvideotapes.Thisusuallyhappens",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 414.061239999999
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "aweekafterthedeadline.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 404.09834999999896
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Theseniorreviewersreceiveasetof14-18papers.Forhalfof",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 386.935449999999
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "thesetheyactassecondaryreviewerandforhalfasseniorreviewer",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 376.97255999999896
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": ".",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 555.7499,
+      "y": 376.97255999999896
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Asseniorreviewers,theylookatyourpaperandchoosethreead-",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 367.00927999999897
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "ditionalreviewers-atleasttwoofwhomareexternaltohisorher",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 357.04638999999895
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "institution.Theseniorreviewersendsalistofthesereviewersto",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 347.08349999999893
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "thechairwithintwoweeks.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 337.1206099999989
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Thereviewerstheneachreceiveacopyofyourpaper,slides,and",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 319.9667099999989
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "video.Thereviewerreadsyourpaper,evaluatesit,and\u0002llsout",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 310.0038199999989
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "thereviewformthateventuallymakesitswaybacktoyou.Heor",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 300.04092999999887
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "shemay\u0002lloutthehardcopyormayemailthereviewbacktothe",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 290.07803999999885
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "seniorreviewer.Thereviewerhasfourweekstodothis.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 280.11514999999883
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Aftertheseniorreviewergetseachreviewofyourpaper,areview",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 262.95224999999886
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "summaryismadeandascoreiscomputed.Copiesaremadeofthe",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 252.98935999999887
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "summariesandreviews.TheoriginalsarethenFederalExpressed",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 243.02646999999888
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "tothechair.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 233.0635799999989
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Thechairtabulatesallthescores,sortsyourpaperaccordingto",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 215.9096799999989
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "score,recordsitinadatabase,andprintsoutasetofcustomlists",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 205.9463999999989
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "foreachseniorreviewersummarizingallthepapers.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 195.9831199999989
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Thefollowingweek,thepaperselectionmeetingoccurs.Thismeet-",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 178.8202199999989
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "ing,wherethefateofyourpaperisdetermined,lastsfortwofull",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 168.8573299999989
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "days.Ifyourpaperisontheverybottomorverytopofthelist,very",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 158.89443999999892
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "littlediscussionisgiventoyourpaper(unlesstheseniorreviewer",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 148.93154999999894
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "wantsashortdiscussionbyfullcommittee).Thisno-discussionac-",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 138.96865999999895
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "ceptance/rejectioneatsawayatthetopandbottomofthelistuntil",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 129.00576999999896
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "thedensityofdiscussionslowstheprocess.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 119.04287999999896
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "secondaryreviewers,aswellasotherswhomightshareexpertise",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 91.92608999999895
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "inthesubjectarea,discussyourpaper.Theythendecidetoaccept,",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 81.96319999999895
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "reject,ordiscussyourpaper.Iftheydecidetoacceptorreject,your",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         317.9519,
+         72.00030999999895
+      ],
+      "x": 317.9519,
+      "y": 72.00030999999895
+   }
+]

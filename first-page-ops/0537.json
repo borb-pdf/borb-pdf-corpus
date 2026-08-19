@@ -1,0 +1,398 @@
+[
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "FinanceandEconomicsDiscussionSeries",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         280.22200000000004,
+         243.03000000000006
+      ],
+      "x": 163.024,
+      "y": 673.034
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "DivisionsofResearch&StatisticsandMonetaryA\u000bairs",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         280.22200000000004,
+         243.03000000000006
+      ],
+      "x": 107.649,
+      "y": 659.086
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "FederalReserveBoard,Washington,D.C.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         280.22200000000004,
+         243.03000000000006
+      ],
+      "x": 157.832,
+      "y": 645.138
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "SomeImplicationsofUncertaintyandMisperceptionfor",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         280.22200000000004,
+         243.03000000000006
+      ],
+      "x": 106.064,
+      "y": 444.65600000000006
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "MonetaryPolicy",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         280.22200000000004,
+         243.03000000000006
+      ],
+      "x": 245.415,
+      "y": 430.90700000000004
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "ChristopherErceg,JamesHebden,MichaelKiley,David",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         280.22200000000004,
+         243.03000000000006
+      ],
+      "x": 105.537,
+      "y": 297.08000000000004
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "L\u0013opez-Salido,andRobertTetlow",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         280.22200000000004,
+         243.03000000000006
+      ],
+      "x": 189.21300000000002,
+      "y": 283.33200000000005
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "2018-059",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         280.22200000000004,
+         243.03000000000006
+      ],
+      "x": 280.22200000000004,
+      "y": 243.03000000000006
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Pleasecitethispaperas:",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         107.575,
+         191.146
+      ],
+      "x": 107.575,
+      "y": 191.146
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Erceg,Christopher,JamesHebden,MichaelKiley,DavidL\u0013opez-Salido,andRobertTetlow",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         107.575,
+         143.325
+      ],
+      "x": 107.575,
+      "y": 179.191
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "(2018).\\SomeImplicationsofUncertaintyandMisperceptionforMonetaryPolicy,\"Finance",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         107.575,
+         143.325
+      ],
+      "x": 107.575,
+      "y": 167.236
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "andEconomicsDiscussionSeries2018-059.Washington:BoardofGovernorsoftheFederal",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         107.575,
+         143.325
+      ],
+      "x": 107.575,
+      "y": 155.28
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "ReserveSystem,https://doi.org/10.17016/FEDS.2018.059.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         107.575,
+         143.325
+      ],
+      "x": 107.575,
+      "y": 143.325
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "NOTE:Sta\u000bworkingpapersintheFinanceandEconomicsDiscussionSeries(FEDS)arepreliminary",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         73.48700000000001
+      ],
+      "x": 86.944,
+      "y": 121.308
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "materialscirculatedtostimulatediscussionandcriticalcomment.Theanalysisandconclusionssetforth",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         73.48700000000001
+      ],
+      "x": 72.0,
+      "y": 109.35300000000001
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "arethoseoftheauthorsanddonotindicateconcurrencebyothermembersoftheresearchsta\u000borthe",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         73.48700000000001
+      ],
+      "x": 72.0,
+      "y": 97.39800000000001
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "BoardofGovernors.ReferencesinpublicationstotheFinanceandEconomicsDiscussionSeries(otherthan",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         73.48700000000001
+      ],
+      "x": 72.0,
+      "y": 85.44200000000001
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "acknowledgement)shouldbeclearedwiththeauthor(s)toprotectthetentativecharacterofthesepapers.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         73.48700000000001
+      ],
+      "x": 72.0,
+      "y": 73.48700000000001
+   }
+]

@@ -1,0 +1,882 @@
+[
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "JSS",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         81.0,
+         722.069
+      ],
+      "x": 81.0,
+      "y": 722.069
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "JournalofStatisticalSoftware",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         187.512,
+         704.442
+      ],
+      "x": 202.17,
+      "y": 726.533
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "August2014,Volume59,Issue10.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         187.512,
+         704.442
+      ],
+      "x": 187.512,
+      "y": 704.442
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "http://www.jstatsoft.org/",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         187.512,
+         704.442
+      ],
+      "x": 187.512,
+      "y": 704.442
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "TidyData",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         283.729,
+         551.7740000000001
+      ],
+      "x": 257.79,
+      "y": 607.97
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "HadleyWickham",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         283.729,
+         551.7740000000001
+      ],
+      "x": 252.585,
+      "y": 565.3240000000001
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "RStudio",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         283.729,
+         551.7740000000001
+      ],
+      "x": 283.729,
+      "y": 551.7740000000001
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Abstract",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         377.70099999999996,
+         351.7210000000001
+      ],
+      "x": 279.597,
+      "y": 503.598
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Ahugeamountofe\u000bortisspentcleaningdatatogetitreadyforanalysis,butthere",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         377.70099999999996,
+         351.7210000000001
+      ],
+      "x": 123.21699999999998,
+      "y": 485.116
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "hasbeenlittleresearchonhowtomakedatacleaningaseasyande\u000bectiveaspossible.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         377.70099999999996,
+         351.7210000000001
+      ],
+      "x": 108.27299999999998,
+      "y": 473.161
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Thispapertacklesasmall,butimportant,componentofdatacleaning:datatidying.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         377.70099999999996,
+         351.7210000000001
+      ],
+      "x": 108.27299999999998,
+      "y": 461.206
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Tidydatasetsareeasytomanipulate,modelandvisualize,andhaveaspeci\fcstructure:",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         377.70099999999996,
+         351.7210000000001
+      ],
+      "x": 108.27299999999998,
+      "y": 449.25100000000003
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "eachvariableisacolumn,eachobservationisarow,andeachtypeofobservationalunit",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         377.70099999999996,
+         351.7210000000001
+      ],
+      "x": 108.27299999999998,
+      "y": 437.29600000000005
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "isatable.Thisframeworkmakesiteasytotidymessydatasetsbecauseonlyasmall",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         377.70099999999996,
+         351.7210000000001
+      ],
+      "x": 108.27299999999998,
+      "y": 425.34100000000007
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "setoftoolsareneededtodealwithawiderangeofun-tidydatasets.Thisstructure",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         377.70099999999996,
+         351.7210000000001
+      ],
+      "x": 108.27299999999998,
+      "y": 413.38500000000005
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "alsomakesiteasiertodeveloptidytoolsfordataanalysis,toolsthatbothinputand",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         377.70099999999996,
+         351.7210000000001
+      ],
+      "x": 108.27299999999998,
+      "y": 401.43000000000006
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "outputtidydatasets.Theadvantagesofaconsistentdatastructureandmatchingtools",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         377.70099999999996,
+         351.7210000000001
+      ],
+      "x": 108.27299999999998,
+      "y": 389.4750000000001
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "aredemonstratedwithacasestudyfreefrommundanedatamanipulationchores.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         377.70099999999996,
+         351.7210000000001
+      ],
+      "x": 108.27299999999998,
+      "y": 377.5200000000001
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Keywords",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         377.70099999999996,
+         351.7210000000001
+      ],
+      "x": 80.99999999999999,
+      "y": 351.7210000000001
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": ":datacleaning,datatidying,relationaldatabases,",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         377.70099999999996,
+         351.7210000000001
+      ],
+      "x": 127.451,
+      "y": 351.7210000000001
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "R",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         377.70099999999996,
+         351.7210000000001
+      ],
+      "x": 370.66499999999996,
+      "y": 351.7210000000001
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": ".",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         377.70099999999996,
+         351.7210000000001
+      ],
+      "x": 377.70099999999996,
+      "y": 351.7210000000001
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "1.Introduction",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         81.0,
+         98.80599999999995
+      ],
+      "x": 247.265,
+      "y": 288.682
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Itisoftensaidthat80%ofdataanalysisisspentontheprocessofcleaningandpreparing",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         81.0,
+         98.80599999999995
+      ],
+      "x": 81.0,
+      "y": 264.877
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "thedata(",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         81.0,
+         98.80599999999995
+      ],
+      "x": 81.0,
+      "y": 251.328
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "DasuandJohnson",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         81.0,
+         98.80599999999995
+      ],
+      "x": 81.0,
+      "y": 251.328
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "2003",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         81.0,
+         98.80599999999995
+      ],
+      "x": 81.0,
+      "y": 251.328
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": ").Datapreparationisnotjusta\frststep,butmustbe",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         81.0,
+         98.80599999999995
+      ],
+      "x": 81.0,
+      "y": 251.328
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "repeatedmanytimesoverthecourseofanalysisasnewproblemscometolightornewdata",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         81.0,
+         98.80599999999995
+      ],
+      "x": 81.0,
+      "y": 237.779
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "iscollected.Despitetheamountoftimeittakes,therehasbeensurprisinglylittleresearch",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         81.0,
+         98.80599999999995
+      ],
+      "x": 81.0,
+      "y": 224.23
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "onhowtocleandatawell.Partofthechallengeisthebreadthofactivitiesitencompasses:",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         81.0,
+         98.80599999999995
+      ],
+      "x": 81.0,
+      "y": 210.67999999999998
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "fromoutlierchecking,todateparsing,tomissingvalueimputation.Togetahandleonthe",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         81.0,
+         98.80599999999995
+      ],
+      "x": 81.0,
+      "y": 197.13099999999997
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "problem,thispaperfocusesonasmall,butimportant,aspectofdatacleaningthatIcalldata",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         81.0,
+         98.80599999999995
+      ],
+      "x": 81.0,
+      "y": 183.58199999999997
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "tidying",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         81.0,
+         98.80599999999995
+      ],
+      "x": 81.0,
+      "y": 170.03299999999996
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": ":structuringdatasetstofacilitateanalysis.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         81.0,
+         98.80599999999995
+      ],
+      "x": 114.261,
+      "y": 170.03299999999996
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Theprinciplesoftidydataprovideastandardwaytoorganizedatavalueswithinadataset.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         81.0,
+         98.80599999999995
+      ],
+      "x": 81.0,
+      "y": 153.00299999999996
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Astandardmakesinitialdatacleaningeasierbecauseyoudonotneedtostartfromscratch",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         81.0,
+         98.80599999999995
+      ],
+      "x": 81.0,
+      "y": 139.45399999999995
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "andreinventthewheeleverytime.Thetidydatastandardhasbeendesignedtofacilitate",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         81.0,
+         98.80599999999995
+      ],
+      "x": 81.0,
+      "y": 125.90399999999995
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "initialexplorationandanalysisofthedata,andtosimplifythedevelopmentofdataanalysis",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         81.0,
+         98.80599999999995
+      ],
+      "x": 81.0,
+      "y": 112.35499999999996
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "toolsthatworkwelltogether.Currenttoolsoftenrequiretranslation.Youhavetospendtime",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         81.0,
+         98.80599999999995
+      ],
+      "x": 81.0,
+      "y": 98.80599999999995
+   }
+]

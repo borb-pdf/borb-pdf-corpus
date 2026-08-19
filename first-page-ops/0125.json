@@ -1,0 +1,1256 @@
+[
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "SALTZER",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         72.0,
+         789.0
+      ],
+      "x": 72.0,
+      "y": 789.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": " ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         117.007,
+         789.0
+      ],
+      "x": 117.007,
+      "y": 789.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "ET",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         119.787,
+         789.0
+      ],
+      "x": 119.787,
+      "y": 789.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": " ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         132.566,
+         789.0
+      ],
+      "x": 132.566,
+      "y": 789.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "AL",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         135.346,
+         789.0
+      ],
+      "x": 135.346,
+      "y": 789.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": ".",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         147.575,
+         789.0
+      ],
+      "x": 147.575,
+      "y": 789.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "End-to-End",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         210.0,
+         789.0
+      ],
+      "x": 210.0,
+      "y": 789.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": " ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         260.577,
+         789.0
+      ],
+      "x": 260.577,
+      "y": 789.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "Arguments",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         263.357,
+         789.0
+      ],
+      "x": 263.357,
+      "y": 789.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": " ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         311.704,
+         789.0
+      ],
+      "x": 311.704,
+      "y": 789.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "in",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         314.484,
+         789.0
+      ],
+      "x": 314.484,
+      "y": 789.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": " ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         322.263,
+         789.0
+      ],
+      "x": 322.263,
+      "y": 789.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "System",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         325.043,
+         789.0
+      ],
+      "x": 325.043,
+      "y": 789.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": " ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         358.381,
+         789.0
+      ],
+      "x": 358.381,
+      "y": 789.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Design1",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         361.161,
+         789.0
+      ],
+      "x": 361.161,
+      "y": 789.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "END-TO-END ARGUMENTS IN SYSTEM DESIGN",
+      "tm": [
+         18.0,
+         0.0,
+         0.0,
+         18.0,
+         101.0,
+         727.0
+      ],
+      "x": 101.0,
+      "y": 727.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "J.H. Saltzer, D.P. Reed and D.D. Clark",
+      "tm": [
+         16.0,
+         0.0,
+         0.0,
+         16.0,
+         155.99200000000002,
+         669.0
+      ],
+      "x": 161.0,
+      "y": 697.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "*",
+      "tm": [
+         16.0,
+         0.0,
+         0.0,
+         16.0,
+         155.99200000000002,
+         669.0
+      ],
+      "x": 445.0,
+      "y": 699.992
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "M.I.T. Laboratory for Computer Science",
+      "tm": [
+         16.0,
+         0.0,
+         0.0,
+         16.0,
+         155.99200000000002,
+         669.0
+      ],
+      "x": 155.99200000000002,
+      "y": 669.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "This paper presents a design principle that helps guide placement of functions among the",
+      "tm": [
+         12.0,
+         0.0,
+         0.0,
+         12.0,
+         90.0,
+         589.9939999999998
+      ],
+      "x": 90.0,
+      "y": 611.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "modules of a distributed computer system. The principle, called the end-to-end argument,",
+      "tm": [
+         12.0,
+         0.0,
+         0.0,
+         12.0,
+         90.0,
+         589.9939999999998
+      ],
+      "x": 90.0,
+      "y": 596.996
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "suggests that functions placed at low levels of a system may be redundant or of little",
+      "tm": [
+         12.0,
+         0.0,
+         0.0,
+         12.0,
+         90.0,
+         589.9939999999998
+      ],
+      "x": 90.0,
+      "y": 595.829
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "value when compared with the cost of providing them at that low level. Examples",
+      "tm": [
+         12.0,
+         0.0,
+         0.0,
+         12.0,
+         90.0,
+         589.9939999999998
+      ],
+      "x": 90.0,
+      "y": 594.6619999999999
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "discussed in the paper include bit error recovery, security using encryption, duplicate",
+      "tm": [
+         12.0,
+         0.0,
+         0.0,
+         12.0,
+         90.0,
+         589.9939999999998
+      ],
+      "x": 90.0,
+      "y": 593.4949999999999
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "message suppression, recovery from system crashes, and delivery acknowledgement. Low",
+      "tm": [
+         12.0,
+         0.0,
+         0.0,
+         12.0,
+         90.0,
+         589.9939999999998
+      ],
+      "x": 90.0,
+      "y": 592.3279999999999
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "level mechanisms to support these functions are justified only as performance",
+      "tm": [
+         12.0,
+         0.0,
+         0.0,
+         12.0,
+         90.0,
+         589.9939999999998
+      ],
+      "x": 90.0,
+      "y": 591.1609999999998
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "enhancements.",
+      "tm": [
+         12.0,
+         0.0,
+         0.0,
+         12.0,
+         90.0,
+         589.9939999999998
+      ],
+      "x": 90.0,
+      "y": 589.9939999999998
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "Introduction",
+      "tm": [
+         14.0,
+         0.0,
+         0.0,
+         14.0,
+         72.0,
+         468.0
+      ],
+      "x": 72.0,
+      "y": 468.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "Choosing the proper boundaries between functions is perhaps the primary activity of the",
+      "tm": [
+         12.0,
+         0.0,
+         0.0,
+         12.0,
+         72.0,
+         401.9960000000003
+      ],
+      "x": 72.0,
+      "y": 449.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "computer system designer. Design principles that provide guidance in this choice of function",
+      "tm": [
+         12.0,
+         0.0,
+         0.0,
+         12.0,
+         72.0,
+         401.9960000000003
+      ],
+      "x": 72.0,
+      "y": 447.833
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "placement are among the most important tools of a system designer. This paper discusses one",
+      "tm": [
+         12.0,
+         0.0,
+         0.0,
+         12.0,
+         72.0,
+         401.9960000000003
+      ],
+      "x": 72.0,
+      "y": 446.66600000000005
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "class of function placement argument that has been used for many years with neither explicit",
+      "tm": [
+         12.0,
+         0.0,
+         0.0,
+         12.0,
+         72.0,
+         401.9960000000003
+      ],
+      "x": 72.0,
+      "y": 445.4990000000001
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "recognition nor much conviction. However, the emergence of the data communication network as",
+      "tm": [
+         12.0,
+         0.0,
+         0.0,
+         12.0,
+         72.0,
+         401.9960000000003
+      ],
+      "x": 72.0,
+      "y": 444.3320000000001
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "a computer system component has sharpened this line of function placement argument by making",
+      "tm": [
+         12.0,
+         0.0,
+         0.0,
+         12.0,
+         72.0,
+         401.9960000000003
+      ],
+      "x": 72.0,
+      "y": 443.16500000000013
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "more apparent the situations in which and reasons why it applies. This paper articulates the",
+      "tm": [
+         12.0,
+         0.0,
+         0.0,
+         12.0,
+         72.0,
+         401.9960000000003
+      ],
+      "x": 72.0,
+      "y": 441.99800000000016
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "argument explicitly, so as to examine its nature and to see how general it really is. The argument",
+      "tm": [
+         12.0,
+         0.0,
+         0.0,
+         12.0,
+         72.0,
+         401.9960000000003
+      ],
+      "x": 72.0,
+      "y": 440.8310000000002
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "appeals to application requirements, and provides a rationale for moving function upward in a",
+      "tm": [
+         12.0,
+         0.0,
+         0.0,
+         12.0,
+         72.0,
+         401.9960000000003
+      ],
+      "x": 72.0,
+      "y": 439.6640000000002
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "layered system, closer to the application that uses the function. We begin by considering the",
+      "tm": [
+         12.0,
+         0.0,
+         0.0,
+         12.0,
+         72.0,
+         401.9960000000003
+      ],
+      "x": 72.0,
+      "y": 438.49700000000024
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "communication network version of the argument.",
+      "tm": [
+         12.0,
+         0.0,
+         0.0,
+         12.0,
+         72.0,
+         401.9960000000003
+      ],
+      "x": 72.0,
+      "y": 437.33000000000027
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "In a system that includes communications, one usually draws a modular boundary around the",
+      "tm": [
+         12.0,
+         0.0,
+         0.0,
+         12.0,
+         72.0,
+         401.9960000000003
+      ],
+      "x": 72.0,
+      "y": 418.3340000000003
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "communication subsystem and defines a firm interface between it and the rest of the system.",
+      "tm": [
+         12.0,
+         0.0,
+         0.0,
+         12.0,
+         72.0,
+         401.9960000000003
+      ],
+      "x": 72.0,
+      "y": 404.33000000000027
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "When doing so, it becomes apparent that there is a list of functions each of which might be",
+      "tm": [
+         12.0,
+         0.0,
+         0.0,
+         12.0,
+         72.0,
+         401.9960000000003
+      ],
+      "x": 72.0,
+      "y": 403.1630000000003
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "implemented in any of several ways: by the communication subsystem, by its client, as a joint",
+      "tm": [
+         12.0,
+         0.0,
+         0.0,
+         12.0,
+         72.0,
+         401.9960000000003
+      ],
+      "x": 72.0,
+      "y": 401.9960000000003
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "*",
+      "tm": [
+         9.0,
+         0.0,
+         0.0,
+         9.0,
+         72.0,
+         208.0
+      ],
+      "x": 72.0,
+      "y": 208.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": " Authors' addresses: J.H. Saltzer and D.D. Clark, M.I.T. Laboratory for Computer Science, 545 Technology",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         90.0,
+         91.90000000000002
+      ],
+      "x": 77.0,
+      "y": 205.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Square, Cambridge, Massachusetts 02139.:  D.P. Reed, Software Arts, Inc., 27 Mica Lane, Wellesley,",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         90.0,
+         91.90000000000002
+      ],
+      "x": 90.0,
+      "y": 193.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "Massachusetts  02181.",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         90.0,
+         91.90000000000002
+      ],
+      "x": 90.0,
+      "y": 191.8
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "This research was supported in part by the Advanced Research Projects Agency of the U.S. Department of",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         90.0,
+         91.90000000000002
+      ],
+      "x": 90.0,
+      "y": 176.8
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "Defense and monitored by the Office of Naval Research under contract number N00014-75-C-0661.",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         90.0,
+         91.90000000000002
+      ],
+      "x": 90.0,
+      "y": 164.8
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "Revised version of a paper from the Second International Conference on Distributed Computing Systems, Paris,",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         90.0,
+         91.90000000000002
+      ],
+      "x": 90.0,
+      "y": 149.8
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "France, April 8-10, 1981, pp. 509-512.:  Copyright 1981 by The Institute of Electrical and Electronics",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         90.0,
+         91.90000000000002
+      ],
+      "x": 90.0,
+      "y": 137.8
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "Engineers, Inc.  Reprinted with permission.",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         90.0,
+         91.90000000000002
+      ],
+      "x": 90.0,
+      "y": 136.60000000000002
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "Published in ACM Transactions in Computer Systems 2, 4, November, 1984, pages 277-288.",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         90.0,
+         91.90000000000002
+      ],
+      "x": 90.0,
+      "y": 121.60000000000002
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Reprinted in Craig Partridge, editor Innovations in internetworking.  Artech House, Norwood, MA, 1988, pages",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         90.0,
+         91.90000000000002
+      ],
+      "x": 90.0,
+      "y": 120.10000000000002
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "195-206. ISBN 0-89006-337-0.  Also scheduled to be reprinted in Amit Bhargava, editor.  Integrated broadband",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         90.0,
+         91.90000000000002
+      ],
+      "x": 90.0,
+      "y": 108.10000000000002
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "networks.  Artech House, Boston, 1991. ISBN 0-89006-483-0.",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         90.0,
+         91.90000000000002
+      ],
+      "x": 90.0,
+      "y": 106.90000000000002
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "Scribe/FinalWord source: http://web.mit.edu/Saltzer/www/publications/",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         90.0,
+         91.90000000000002
+      ],
+      "x": 90.0,
+      "y": 91.90000000000002
+   }
+]

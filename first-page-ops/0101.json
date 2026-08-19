@@ -1,0 +1,354 @@
+[
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "0x:Anopenprotocolfordecentralizedexchangeon",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         303.13300000000004,
+         26.36500000000018
+      ],
+      "x": 85.629,
+      "y": 678.392
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "theEthereumblockchain",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         303.13300000000004,
+         26.36500000000018
+      ],
+      "x": 199.61200000000002,
+      "y": 656.474
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "WillWarren,AmirBandeali",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         303.13300000000004,
+         26.36500000000018
+      ],
+      "x": 232.87500000000003,
+      "y": 627.5830000000001
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "0xProject.com",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         303.13300000000004,
+         26.36500000000018
+      ],
+      "x": 265.636,
+      "y": 613.6350000000001
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "February21,2017",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         303.13300000000004,
+         26.36500000000018
+      ],
+      "x": 259.533,
+      "y": 590.19
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Abstract",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         303.13300000000004,
+         26.36500000000018
+      ],
+      "x": 285.33000000000004,
+      "y": 554.3240000000001
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Wedescribeaprotocolthatfacilitateslowfrictionpeer-to-peerexchangeofERC20tokensonthe",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         303.13300000000004,
+         26.36500000000018
+      ],
+      "x": 104.67500000000004,
+      "y": 538.7080000000001
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Ethereumblockchain.Theprotocolisintendedtoserveasanopenstandardandcommonbuilding",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         303.13300000000004,
+         26.36500000000018
+      ],
+      "x": 104.67500000000004,
+      "y": 527.7490000000001
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "block,drivinginteroperabilityamongdecentralizedapplications(dApps)thatincorporateexchange",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         303.13300000000004,
+         26.36500000000018
+      ],
+      "x": 104.67500000000004,
+      "y": 516.7900000000002
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "functionality.TradesareexecutedbyasystemofEthereumsmartcontractsthatarepubliclyacces-",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         303.13300000000004,
+         26.36500000000018
+      ],
+      "x": 104.67500000000004,
+      "y": 505.8310000000002
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "sible,freetouseandthatanydAppcanhookinto.DAppsbuiltontopoftheprotocolcanaccess",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         303.13300000000004,
+         26.36500000000018
+      ],
+      "x": 104.67500000000004,
+      "y": 494.8720000000002
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "publicliquiditypoolsorcreatetheirownliquiditypoolandchargetransactionfeesontheresulting",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         303.13300000000004,
+         26.36500000000018
+      ],
+      "x": 104.67500000000004,
+      "y": 483.9130000000002
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "volume.Theprotocolisunopinionated:itdoesnotimposecostsonitsusersorarbitrarilyextract",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         303.13300000000004,
+         26.36500000000018
+      ],
+      "x": 104.67500000000004,
+      "y": 472.9540000000002
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "valuefromonegroupofuserstobene\ftanother.Decentralizedgovernanceisusedtocontinuously",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         303.13300000000004,
+         26.36500000000018
+      ],
+      "x": 104.67500000000004,
+      "y": 461.9950000000002
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "andsecurelyintegrateupdatesintothebaseprotocolwithoutdisruptingdAppsorendusers.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         303.13300000000004,
+         26.36500000000018
+      ],
+      "x": 104.67500000000004,
+      "y": 451.0360000000002
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "1",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         303.13300000000004,
+         26.36500000000018
+      ],
+      "x": 303.13300000000004,
+      "y": 26.36500000000018
+   }
+]

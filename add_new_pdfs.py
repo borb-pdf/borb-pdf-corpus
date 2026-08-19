@@ -1,12 +1,14 @@
+import json
 import pathlib
 import shutil
 import typing
 
-SRC_DIR: pathlib.Path = pathlib.Path("/home/joris-schellekens/Code/borb-pdf-corpus-002/pdf")
+SRC_DIR: pathlib.Path = pathlib.Path("/home/joris-schellekens/Code/borb-pdf-corpus/pdf")
 
 DIGEST_DIR: pathlib.Path = pathlib.Path(__file__).parent / "digest"
 FIRST_PAGE_PDF_DIR: pathlib.Path = pathlib.Path(__file__).parent / "first-page-pdf"
 FIRST_PAGE_TXT_DIR: pathlib.Path = pathlib.Path(__file__).parent / "first-page-txt"
+FIRST_PAGE_OPS_DIR: pathlib.Path = pathlib.Path(__file__).parent / "first-page-ops"
 PDF_DIR: pathlib.Path = pathlib.Path(__file__).parent / "pdf"
 TXT_DIR: pathlib.Path = pathlib.Path(__file__).parent / "txt"
 
@@ -62,6 +64,63 @@ def __store_first_page_txt(src_file: pathlib.Path, dst_name: str) -> None:
         pass
     with open(FIRST_PAGE_TXT_DIR / dst_name, "w") as fh:
         fh.write(txt_in_pdf)
+
+
+def __store_first_page_ops(src_file: pathlib.Path, dst_name: str):
+
+    # define the output variable
+    out: typing.List[typing.Dict[str, typing.Any]] = []
+
+    # define inner function to pass to visitor
+    def visitor(
+        operator: bytes,
+        operands: list,
+        cm: list[float],
+        tm: list[float],
+    ) -> None:
+        if operator not in (b"Tj", b"TJ"):
+            return
+
+        text = (
+            operands[0]
+            if operator == b"Tj"
+            else b"".join(item for item in operands[0] if isinstance(item, bytes))
+        )
+
+        # tm = [a, b, c, d, e, f]
+        # e, f are the current text position.
+        x = tm[4]
+        y = tm[5]
+
+        out.append(
+            {
+                "operator": operator.decode(),
+                "text": text.decode(),
+                "x": x,
+                "y": y,
+                "cm": cm,
+                "tm": tm,
+            }
+        )
+
+    # read the file
+    from PyPDF2 import PdfReader
+
+    reader = PdfReader(src_file)
+
+    # process first page with the visitor
+    reader.pages[0].extract_text(
+        visitor_operand_before=visitor,
+    )
+
+    # IF the FIRST_PAGE_OPS_DIR does not exist yet
+    # THEN create it
+    if not FIRST_PAGE_OPS_DIR.exists():
+        FIRST_PAGE_OPS_DIR.mkdir()
+
+    # store
+    with open(FIRST_PAGE_OPS_DIR / dst_name, "w") as fh:
+        fh.write(json.dumps(out, indent=3, sort_keys=True))
 
 
 #
@@ -124,13 +183,12 @@ def main():
         __store_text(src_file=pdf_file, dst_name=f"{n:04d}.txt")
 
         # store first-page-pdf
-
         print(f"\tfirst-page-pdf  : {n:04d}.pdf")
         __store_first_page_pdf(src_file=pdf_file, dst_name=f"{n:04d}.pdf")
 
         # store first-page-txt
-        print(f"\tfirst-page-txt  : {n:04d}.pdf")
-        __store_first_page_txt(src_file=pdf_file, dst_name=f"{n:04d}.txt")
+        print(f"\tfirst-page-ops  : {n:04d}.pdf")
+        __store_first_page_ops(src_file=pdf_file, dst_name=f"{n:04d}.txt")
 
 
 if __name__ == "__main__":

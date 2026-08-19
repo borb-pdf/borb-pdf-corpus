@@ -1,0 +1,2356 @@
+[
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "ETHEREUM:ASECUREDECENTRALISEDGENERALISEDTRANSACTIONLEDGER",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         92.55800000000002,
+         641.1659999999999
+      ],
+      "x": 77.31,
+      "y": 727.105
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "BYZANTIUMVERSIONdbc2f9b-2019-03-28",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         92.55800000000002,
+         641.1659999999999
+      ],
+      "x": 193.618,
+      "y": 713.158
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "DR.GAVINWOOD",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         92.55800000000002,
+         641.1659999999999
+      ],
+      "x": 262.0,
+      "y": 683.27
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "FOUNDER,ETHEREUM&PARITY",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         92.55800000000002,
+         641.1659999999999
+      ],
+      "x": 230.959,
+      "y": 675.3
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "GAVIN@PARITY.IO",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         92.55800000000002,
+         641.1659999999999
+      ],
+      "x": 260.63100000000003,
+      "y": 667.329
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Abstract.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         92.55800000000002,
+         641.1659999999999
+      ],
+      "x": 92.55800000000002,
+      "y": 641.1659999999999
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Theblockchainparadigmwhencoupledwithcryptographically-securedtransactionshasdemonstratedits",
+      "tm": [
+         1.004,
+         0.0,
+         0.0,
+         1.0,
+         133.37,
+         641.166
+      ],
+      "x": 133.37,
+      "y": 641.166
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "utilitythroughanumberofprojects,withBitcoinbeingoneofthemostnotableones.Eachsuchprojectcanbeseenas",
+      "tm": [
+         0.98,
+         0.0,
+         0.0,
+         1.0,
+         92.558,
+         633.196
+      ],
+      "x": 92.558,
+      "y": 633.196
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "asimpleapplicationonadecentralised,butsingleton,computeresource.Wecancallthisparadigmatransactional",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         92.558,
+         625.226
+      ],
+      "x": 92.558,
+      "y": 625.226
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "singletonmachinewithshared-state.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         92.558,
+         617.256
+      ],
+      "x": 92.558,
+      "y": 617.256
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Ethereumimplementsthisparadigminageneralisedmanner.Furthermoreitprovidesapluralityofsuchresources,",
+      "tm": [
+         0.987,
+         0.0,
+         0.0,
+         1.0,
+         104.514,
+         609.286
+      ],
+      "x": 104.514,
+      "y": 609.286
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "eachwithadistinctstateandoperatingcodebutabletointeractthroughamessage-passingframeworkwithothers.",
+      "tm": [
+         1.012,
+         0.0,
+         0.0,
+         1.0,
+         92.558,
+         601.316
+      ],
+      "x": 92.558,
+      "y": 601.316
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Wediscussitsdesign,implementationissues,theopportunitiesitprovidesandthefuturehurdlesweenvisage.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         147.60100000000003,
+         544.767
+      ],
+      "x": 92.153,
+      "y": 593.346
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "1.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         147.60100000000003,
+         544.767
+      ],
+      "x": 135.82600000000002,
+      "y": 544.767
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Introduction",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         147.60100000000003,
+         544.767
+      ],
+      "x": 147.60100000000003,
+      "y": 544.767
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Withubiquitousinternetconnectionsinmostplaces",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         68.648,
+         528.328
+      ],
+      "x": 68.648,
+      "y": 528.328
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "oftheworld,globalinformationtransmissionhasbecome",
+      "tm": [
+         0.999,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         517.37
+      ],
+      "x": 56.693,
+      "y": 517.37
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "incrediblycheap.Technology-rootedmovementslikeBit-",
+      "tm": [
+         1.012,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         506.411
+      ],
+      "x": 56.693,
+      "y": 506.411
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "coinhavedemonstratedthroughthepowerofthedefault,",
+      "tm": [
+         0.996,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         495.452
+      ],
+      "x": 56.693,
+      "y": 495.452
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "consensusmechanisms,andvoluntaryrespectofthesocial",
+      "tm": [
+         0.98,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         484.493
+      ],
+      "x": 56.693,
+      "y": 484.493
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "contract,thatitispossibletousetheinternettomake",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         473.534
+      ],
+      "x": 56.693,
+      "y": 473.534
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "adecentralisedvalue-transfersystemthatcanbeshared",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         462.575
+      ],
+      "x": 56.693,
+      "y": 462.575
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "acrosstheworldandvirtuallyfreetouse.Thissystemcan",
+      "tm": [
+         0.98,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         451.616
+      ],
+      "x": 56.693,
+      "y": 451.616
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "besaidtobeaveryspecialisedversionofacryptographi-",
+      "tm": [
+         0.999,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         440.657
+      ],
+      "x": 56.693,
+      "y": 440.657
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "callysecure,transaction-basedstatemachine.Follow-up",
+      "tm": [
+         1.017,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         429.698
+      ],
+      "x": 56.693,
+      "y": 429.698
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "systemssuchasNamecoinadaptedthisoriginal\\currency",
+      "tm": [
+         0.983,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         418.739
+      ],
+      "x": 56.693,
+      "y": 418.739
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "application\"ofthetechnologyintootherapplicationsalbeit",
+      "tm": [
+         0.98,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         407.781
+      ],
+      "x": 56.693,
+      "y": 407.781
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "rathersimplisticones.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         396.822
+      ],
+      "x": 56.693,
+      "y": 396.822
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Ethereumisaprojectwhichattemptstobuildthegen-",
+      "tm": [
+         0.982,
+         0.0,
+         0.0,
+         1.0,
+         68.648,
+         385.863
+      ],
+      "x": 68.648,
+      "y": 385.863
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "eralisedtechnology;technologyonwhichalltransaction-",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         374.904
+      ],
+      "x": 56.693,
+      "y": 374.904
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "basedstatemachineconceptsmaybebuilt.Moreoverit",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         363.945
+      ],
+      "x": 56.693,
+      "y": 363.945
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "aimstoprovidetotheend-developeratightlyintegrated",
+      "tm": [
+         1.007,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         352.986
+      ],
+      "x": 56.693,
+      "y": 352.986
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "end-to-endsystemforbuildingsoftwareonahithertoun-",
+      "tm": [
+         1.003,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         342.027
+      ],
+      "x": 56.693,
+      "y": 342.027
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "exploredcomputeparadigminthemainstream:atrustful",
+      "tm": [
+         0.987,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         331.068
+      ],
+      "x": 56.693,
+      "y": 331.068
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "objectmessagingcomputeframework.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         320.109
+      ],
+      "x": 56.693,
+      "y": 320.109
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "1.1.",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         282.537
+      ],
+      "x": 56.693,
+      "y": 282.537
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "DrivingFactors.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         75.922,
+         282.537
+      ],
+      "x": 75.922,
+      "y": 282.537
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Therearemanygoalsofthis",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         158.521,
+         282.537
+      ],
+      "x": 158.521,
+      "y": 282.537
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "project;onekeygoalistofacilitatetransactionsbetween",
+      "tm": [
+         1.004,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         271.578
+      ],
+      "x": 56.693,
+      "y": 271.578
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "consentingindividualswhowouldotherwisehavenomeans",
+      "tm": [
+         0.98,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         260.619
+      ],
+      "x": 56.693,
+      "y": 260.619
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "totrustoneanother.Thismaybeduetogeographical",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         249.66
+      ],
+      "x": 56.693,
+      "y": 249.66
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "separation,interfacingdi\u000eculty,orperhapstheincompati-",
+      "tm": [
+         0.98,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         238.701
+      ],
+      "x": 56.693,
+      "y": 238.701
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "bility,incompetence,unwillingness,expense,uncertainty,",
+      "tm": [
+         1.014,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         227.742
+      ],
+      "x": 56.693,
+      "y": 227.742
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "inconvenience,orcorruptionofexistinglegalsystems.By",
+      "tm": [
+         0.995,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         216.783
+      ],
+      "x": 56.693,
+      "y": 216.783
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "specifyingastate-changesystemthrougharichandunam-",
+      "tm": [
+         0.98,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         205.824
+      ],
+      "x": 56.693,
+      "y": 205.824
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "biguouslanguage,andfurthermorearchitectingasystem",
+      "tm": [
+         1.008,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         194.865
+      ],
+      "x": 56.693,
+      "y": 194.865
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "suchthatwecanreasonablyexpectthatanagreementwill",
+      "tm": [
+         0.98,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         183.906
+      ],
+      "x": 56.693,
+      "y": 183.906
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "bethusenforcedautonomously,wecanprovideameans",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         172.948
+      ],
+      "x": 56.693,
+      "y": 172.948
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "tothisend.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         161.989
+      ],
+      "x": 56.693,
+      "y": 161.989
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Dealingsinthisproposedsystemwouldhaveseveral",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         68.648,
+         151.03
+      ],
+      "x": 68.648,
+      "y": 151.03
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "attributesnotoftenfoundintherealworld.Theincorrupt-",
+      "tm": [
+         0.98,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         140.071
+      ],
+      "x": 56.693,
+      "y": 140.071
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "ibilityofjudgement,oftendi\u000ecultto\fnd,comesnaturally",
+      "tm": [
+         0.98,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         129.112
+      ],
+      "x": 56.693,
+      "y": 129.112
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "fromadisinterestedalgorithmicinterpreter.Transparency,",
+      "tm": [
+         0.98,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         118.153
+      ],
+      "x": 56.693,
+      "y": 118.153
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "orbeingabletoseeexactlyhowastateorjudgementcame",
+      "tm": [
+         0.98,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         107.194
+      ],
+      "x": 56.693,
+      "y": 107.194
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "aboutthroughthetransactionlogandrulesorinstructional",
+      "tm": [
+         0.98,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         96.235
+      ],
+      "x": 56.693,
+      "y": 96.235
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "codes,neverhappensperfectlyinhuman-basedsystems",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         85.276
+      ],
+      "x": 56.693,
+      "y": 85.276
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "sincenaturallanguageisnecessarilyvague,information",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         56.693,
+         74.317
+      ],
+      "x": 56.693,
+      "y": 74.317
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "isoftenlacking,andplainoldprejudicesaredi\u000ecultto",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         544.767
+      ],
+      "x": 307.6,
+      "y": 544.767
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "shake.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         533.808
+      ],
+      "x": 307.6,
+      "y": 533.808
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Overall,wewishtoprovideasystemsuchthatusers",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         319.556,
+         522.849
+      ],
+      "x": 319.556,
+      "y": 522.849
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "canbeguaranteedthatnomatterwithwhichotherindi-",
+      "tm": [
+         1.014,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         511.89
+      ],
+      "x": 307.6,
+      "y": 511.89
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "viduals,systemsororganisationstheyinteract,theycan",
+      "tm": [
+         1.018,
+         0.0,
+         0.0,
+         1.0,
+         307.361,
+         500.931
+      ],
+      "x": 307.361,
+      "y": 500.931
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "dosowithabsolutecon\fdenceinthepossibleoutcomes",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         489.972
+      ],
+      "x": 307.6,
+      "y": 489.972
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "andhowthoseoutcomesmightcomeabout.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         479.013
+      ],
+      "x": 307.6,
+      "y": 479.013
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "1.2.",
+      "tm": [
+         0.994,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         457.879
+      ],
+      "x": 307.6,
+      "y": 457.879
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "PreviousWork.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         326.457,
+         457.879
+      ],
+      "x": 326.457,
+      "y": 457.879
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Buterin[2013a]\frstproposedthe",
+      "tm": [
+         0.994,
+         0.0,
+         0.0,
+         1.0,
+         403.328,
+         457.879
+      ],
+      "x": 403.328,
+      "y": 457.879
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "kernelofthisworkinlateNovember,2013.Thoughnow",
+      "tm": [
+         1.014,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         446.92
+      ],
+      "x": 307.6,
+      "y": 446.92
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "evolvedinmanyways,thekeyfunctionalityofablock-",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         435.961
+      ],
+      "x": 307.6,
+      "y": 435.961
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "chainwithaTuring-completelanguageandane\u000bectively",
+      "tm": [
+         1.002,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         425.002
+      ],
+      "x": 307.6,
+      "y": 425.002
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "unlimitedinter-transactionstoragecapabilityremainsun-",
+      "tm": [
+         0.996,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         414.043
+      ],
+      "x": 307.6,
+      "y": 414.043
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "changed.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         403.084
+      ],
+      "x": 307.6,
+      "y": 403.084
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "DworkandNaor[1992]providedthe\frstworkintothe",
+      "tm": [
+         0.98,
+         0.0,
+         0.0,
+         1.0,
+         319.556,
+         392.126
+      ],
+      "x": 319.556,
+      "y": 392.126
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "usageofacryptographicproofofcomputationalexpendi-",
+      "tm": [
+         1.003,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         381.167
+      ],
+      "x": 307.6,
+      "y": 381.167
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "ture(\\proof-of-work\")asameansoftransmittingavalue",
+      "tm": [
+         0.993,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         370.208
+      ],
+      "x": 307.6,
+      "y": 370.208
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "signalovertheInternet.Thevalue-signalwasutilisedhere",
+      "tm": [
+         0.98,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         359.249
+      ],
+      "x": 307.6,
+      "y": 359.249
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "asaspamdeterrencemechanismratherthananykind",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         348.29
+      ],
+      "x": 307.6,
+      "y": 348.29
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "ofcurrency,butcriticallydemonstratedthepotentialfor",
+      "tm": [
+         1.012,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         337.331
+      ],
+      "x": 307.6,
+      "y": 337.331
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "abasicdatachanneltocarrya",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         326.372
+      ],
+      "x": 307.6,
+      "y": 326.372
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "strongeconomicsignal",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         443.397,
+         326.372
+      ],
+      "x": 443.397,
+      "y": 326.372
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": ",",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         537.253,
+         326.372
+      ],
+      "x": 537.253,
+      "y": 326.372
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "allowingareceivertomakeaphysicalassertionwithout",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         315.413
+      ],
+      "x": 307.6,
+      "y": 315.413
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "havingtorelyupon",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         304.454
+      ],
+      "x": 307.6,
+      "y": 304.454
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "trust",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         392.689,
+         304.454
+      ],
+      "x": 392.689,
+      "y": 304.454
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": ".Back[2002]laterproduceda",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         411.764,
+         304.454
+      ],
+      "x": 411.764,
+      "y": 304.454
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "systeminasimilarvein.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         293.495
+      ],
+      "x": 307.6,
+      "y": 293.495
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "The\frstexampleofutilisingtheproof-of-workasa",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         319.556,
+         282.537
+      ],
+      "x": 319.556,
+      "y": 282.537
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "strongeconomicsignaltosecureacurrencywasbyVish-",
+      "tm": [
+         1.01,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         271.578
+      ],
+      "x": 307.6,
+      "y": 271.578
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "numurthyetal.[2003].Inthisinstance,thetokenwas",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         260.619
+      ],
+      "x": 307.6,
+      "y": 260.619
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "usedtokeeppeer-to-peer\fletradingincheck,providing",
+      "tm": [
+         1.013,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         249.66
+      ],
+      "x": 307.6,
+      "y": 249.66
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "\\consumers\"withtheabilitytomakemicro-paymentsto",
+      "tm": [
+         1.017,
+         0.0,
+         0.0,
+         1.0,
+         305.297,
+         238.701
+      ],
+      "x": 305.297,
+      "y": 238.701
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "\\suppliers\"fortheirservices.Thesecuritymodela\u000borded",
+      "tm": [
+         0.995,
+         0.0,
+         0.0,
+         1.0,
+         305.297,
+         227.742
+      ],
+      "x": 305.297,
+      "y": 227.742
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "bytheproof-of-workwasaugmentedwithdigitalsignatures",
+      "tm": [
+         0.98,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         216.783
+      ],
+      "x": 307.6,
+      "y": 216.783
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "andaledgerinordertoensurethatthehistoricalrecord",
+      "tm": [
+         1.012,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         205.824
+      ],
+      "x": 307.6,
+      "y": 205.824
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "couldn'tbecorruptedandthatmaliciousactorscouldnot",
+      "tm": [
+         0.987,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         194.865
+      ],
+      "x": 307.6,
+      "y": 194.865
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "spoofpaymentorunjustlycomplainaboutservicedeliv-",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         183.906
+      ],
+      "x": 307.6,
+      "y": 183.906
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "ery.Fiveyearslater,Nakamoto[2008]introducedanother",
+      "tm": [
+         0.987,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         172.948
+      ],
+      "x": 307.6,
+      "y": 172.948
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "suchproof-of-work-securedvaluetoken,somewhatwiderin",
+      "tm": [
+         0.98,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         161.989
+      ],
+      "x": 307.6,
+      "y": 161.989
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "scope.Thefruitsofthisproject,Bitcoin,becamethe\frst",
+      "tm": [
+         0.987,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         151.03
+      ],
+      "x": 307.6,
+      "y": 151.03
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "widelyadoptedglobaldecentralisedtransactionledger.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         307.269,
+         140.071
+      ],
+      "x": 307.269,
+      "y": 140.071
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "OtherprojectsbuiltonBitcoin'ssuccess;thealt-coins",
+      "tm": [
+         1.002,
+         0.0,
+         0.0,
+         1.0,
+         319.556,
+         129.112
+      ],
+      "x": 319.556,
+      "y": 129.112
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "introducednumerousothercurrenciesthroughalteration",
+      "tm": [
+         1.01,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         118.153
+      ],
+      "x": 307.6,
+      "y": 118.153
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "totheprotocol.SomeofthebestknownareLitecoinand",
+      "tm": [
+         0.993,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         107.194
+      ],
+      "x": 307.6,
+      "y": 107.194
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "Primecoin,discussedbySprankel[2013].Otherprojects",
+      "tm": [
+         1.02,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         96.235
+      ],
+      "x": 307.6,
+      "y": 96.235
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "soughttotakethecorevaluecontentmechanismofthepro-",
+      "tm": [
+         0.98,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         85.276
+      ],
+      "x": 307.6,
+      "y": 85.276
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "tocolandrepurposeit;Aron[2012]discusses,forexample,",
+      "tm": [
+         0.984,
+         0.0,
+         0.0,
+         1.0,
+         307.6,
+         74.317
+      ],
+      "x": 307.6,
+      "y": 74.317
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "TJ",
+      "text": "1",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         295.811,
+         62.362
+      ],
+      "x": 295.811,
+      "y": 62.362
+   }
+]

@@ -1,0 +1,816 @@
+[
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "Linked Data - The Story So Far",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         686.0413
+      ],
+      "x": 72.0,
+      "y": 686.0413
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "Tom Heath,",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         632.4229
+      ],
+      "x": 72.0,
+      "y": 632.4229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "Talis Information Ltd, United Kingdom",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         134.373,
+         632.4229
+      ],
+      "x": 134.373,
+      "y": 632.4229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "Tim Berners-Lee, Massachusetts Institute of Technology, USA",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         620.4229
+      ],
+      "x": 72.0,
+      "y": 620.4229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "This is a preprint of a paper to appear in: Heath, T., Hepp, M., and Bizer, C. (eds.). Special",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         584.4229
+      ],
+      "x": 72.0,
+      "y": 584.4229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "Issue on Linked Data, International Journal on Semantic Web and Information Systems",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         572.4229
+      ],
+      "x": 72.0,
+      "y": 572.4229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "(IJSWIS). http://linkeddata.org/docs/ijswis-special-issue",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         560.4229
+      ],
+      "x": 72.0,
+      "y": 560.4229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "Abstract",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         517.4321
+      ],
+      "x": 72.0,
+      "y": 517.4321
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "The term Linked Data refers to a set of best practices for publishing and connecting",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         489.6229
+      ],
+      "x": 72.0,
+      "y": 489.6229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "structured data on the Web. These best practices have been adopted by an increasing",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         477.6229
+      ],
+      "x": 72.0,
+      "y": 477.6229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "number of data providers over the last three years, leading to the creation of a global data",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         465.6229
+      ],
+      "x": 72.0,
+      "y": 465.6229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "space containing billions of assertions - the Web of Data. In this article we present the",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         453.6229
+      ],
+      "x": 72.0,
+      "y": 453.6229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "concept and technical principles of Linked Data, and situate these within the broader context",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         441.6229
+      ],
+      "x": 72.0,
+      "y": 441.6229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "of related technological developments. We describe progress to date in publishing Linked",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         429.6229
+      ],
+      "x": 72.0,
+      "y": 429.6229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "Data on the Web, review applications that have been developed to exploit the Web of Data,",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         417.6229
+      ],
+      "x": 72.0,
+      "y": 417.6229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "and map out a research agenda for the Linked Data community as it moves forward.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         405.6229
+      ],
+      "x": 72.0,
+      "y": 405.6229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "Keywords:",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         381.6229
+      ],
+      "x": 72.0,
+      "y": 381.6229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "Linked Data, Web of Data, Semantic Web, Data Sharing, Data Exploration",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         134.9541,
+         381.6229
+      ],
+      "x": 134.9541,
+      "y": 381.6229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "1. Introduction",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         338.6321
+      ],
+      "x": 72.0,
+      "y": 338.6321
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "The World Wide Web has radically altered the way we share knowledge by lowering the",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         310.8229
+      ],
+      "x": 72.0,
+      "y": 310.8229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "barrier to publishing and accessing documents as part of a global information space.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         298.8229
+      ],
+      "x": 72.0,
+      "y": 298.8229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "Hypertext links allow users to traverse this information space using Web browsers, while",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         286.8229
+      ],
+      "x": 72.0,
+      "y": 286.8229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "search engines index the documents and analyse the structure of links between them to",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         274.8229
+      ],
+      "x": 72.0,
+      "y": 274.8229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "infer potential relevance to users' search queries (Brin & Page, 1998). This functionality has",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         262.8229
+      ],
+      "x": 72.0,
+      "y": 262.8229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "been enabled by the generic, open and extensible nature of the Web (Jacobs & Walsh,",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         250.8229
+      ],
+      "x": 72.0,
+      "y": 250.8229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "2004), which is also seen as a key feature in the Web's unconstrained growth.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         238.8229
+      ],
+      "x": 72.0,
+      "y": 238.8229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "Despite the inarguable benefits the Web provides, until recently the same principles that",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         214.8229
+      ],
+      "x": 72.0,
+      "y": 214.8229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "enabled the Web of documents to flourish have not been applied to data. Traditionally, data",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         202.8229
+      ],
+      "x": 72.0,
+      "y": 202.8229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "published on the Web has been made available as raw dumps in formats such as CSV or",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         190.8229
+      ],
+      "x": 72.0,
+      "y": 190.8229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "XML, or marked up as HTML tables, sacrificing much of its structure and semantics. In the",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         178.8229
+      ],
+      "x": 72.0,
+      "y": 178.8229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "conventional hypertext Web, the nature of the relationship between two linked documents is",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         166.8229
+      ],
+      "x": 72.0,
+      "y": 166.8229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "implicit, as the data format, i.e. HTML, is not sufficiently expressive to enable individual",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         154.8229
+      ],
+      "x": 72.0,
+      "y": 154.8229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "entities described in a particular document to be connected by typed links to related",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         142.8229
+      ],
+      "x": 72.0,
+      "y": 142.8229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "entities.",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         130.8229
+      ],
+      "x": 72.0,
+      "y": 130.8229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "However, in recent years the Web has evolved from a global information space of linked",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         106.8229
+      ],
+      "x": 72.0,
+      "y": 106.8229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "documents to one where both documents and data are linked. Underpinning this evolution is",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         94.8229
+      ],
+      "x": 72.0,
+      "y": 94.8229
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "operator": "Tj",
+      "text": "a set of best practices for publishing and connecting structured data on the Web known as",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         82.8229
+      ],
+      "x": 72.0,
+      "y": 82.8229
+   }
+]

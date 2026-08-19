@@ -1,0 +1,970 @@
+[
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         718.0
+      ],
+      "operator": "TJ",
+      "text": "Prize money procedure  ",
+      "tm": [
+         12.0,
+         0.0,
+         0.0,
+         12.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         693.0
+      ],
+      "operator": "TJ",
+      "text": "All prize money will be paid in the Swedish currency SEK, EUR or in USD, depending on the ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         681.0
+      ],
+      "operator": "TJ",
+      "text": "tournament and/or competition that you have competed in. ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         681.0
+      ],
+      "operator": "Tj",
+      "text": " ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         303.9355,
+         0.0
+      ],
+      "x": 303.9355,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         657.0
+      ],
+      "operator": "TJ",
+      "text": "The prize money is only exempted from tax and social fees if your winning team is ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         645.0
+      ],
+      "operator": "TJ",
+      "text": "organized as a company/association or a non-profit organization. ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         645.0
+      ],
+      "operator": "Tj",
+      "text": " ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         331.8457,
+         0.0
+      ],
+      "x": 331.8457,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         621.0
+      ],
+      "operator": "TJ",
+      "text": "If you are claiming your prize money as a private individual, per Swedish law, you have to ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         609.0
+      ],
+      "operator": "TJ",
+      "text": "pay social fees and taxes since you will be receiving your prize money as a form of salary. ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         597.0
+      ],
+      "operator": "TJ",
+      "text": "For team based games one person is responsible for claiming the money if claimed as a ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         585.0
+      ],
+      "operator": "TJ",
+      "text": "private person.",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         585.0
+      ],
+      "operator": "Tj",
+      "text": "!",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         76.08398,
+         0.0
+      ],
+      "x": 76.08398,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         547.0
+      ],
+      "operator": "TJ",
+      "text": "Invoice ",
+      "tm": [
+         12.0,
+         0.0,
+         0.0,
+         12.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         522.0
+      ],
+      "operator": "TJ",
+      "text": "If you want to make a claim for the prize money as a company/association or a non-profit ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         510.0
+      ],
+      "operator": "TJ",
+      "text": "organization, we request that you send us an invoice with the following information stated ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         498.0
+      ],
+      "operator": "TJ",
+      "text": "clearly: ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         498.0
+      ],
+      "operator": "Tj",
+      "text": " ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         40.90332,
+         0.0
+      ],
+      "x": 40.90332,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         107.0,
+         474.0
+      ],
+      "operator": "TJ",
+      "text": "Name of the event (e.g. DreamHack Winter 2016) ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         107.0,
+         450.0
+      ],
+      "operator": "TJ",
+      "text": "Name of tournament and placement (e.g. Counter-Strike Global Offensive, place 2) ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         107.0,
+         426.0
+      ],
+      "operator": "TJ",
+      "text": "Name of contestant/team/company ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         107.0,
+         402.0
+      ],
+      "operator": "TJ",
+      "text": "Your contact info such as mail address and phone number (including country code) ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         378.0
+      ],
+      "operator": "TJ",
+      "text": "The invoice shall be made out to:",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         378.0
+      ],
+      "operator": "Tj",
+      "text": " ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         168.3545,
+         0.0
+      ],
+      "x": 168.3545,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         354.0
+      ],
+      "operator": "TJ",
+      "text": "DREAMHACK AB",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         354.0
+      ],
+      "operator": "Tj",
+      "text": " ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         81.71387,
+         0.0
+      ],
+      "x": 81.71387,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         330.0
+      ],
+      "operator": "Tj",
+      "text": " ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         118.7012,
+         0.0
+      ],
+      "x": 118.7012,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         318.0
+      ],
+      "operator": "TJ",
+      "text": "SWEDEN",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         318.0
+      ],
+      "operator": "Tj",
+      "text": " ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         44.55566,
+         0.0
+      ],
+      "x": 44.55566,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         306.0
+      ],
+      "operator": "TJ",
+      "text": "VAT No: SE556845876301",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         306.0
+      ],
+      "operator": "Tj",
+      "text": " ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         133.5254,
+         0.0
+      ],
+      "x": 133.5254,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         107.0,
+         282.0
+      ],
+      "operator": "TJ",
+      "text": "The invoice shall be made out in the currency that is stated in the tournament rules.",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         107.0,
+         282.0
+      ],
+      "operator": "Tj",
+      "text": " ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         426.0156,
+         0.0
+      ],
+      "x": 426.0156,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         107.0,
+         246.0
+      ],
+      "operator": "TJ",
+      "text": "end date.",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         107.0,
+         246.0
+      ],
+      "operator": "Tj",
+      "text": " ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         47.80273,
+         0.0
+      ],
+      "x": 47.80273,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         107.0,
+         222.0
+      ],
+      "operator": "TJ",
+      "text": "The invoice must contain bank information including IBAN & SWIFT/BIC. If you are a ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         107.0,
+         210.0
+      ],
+      "operator": "TJ",
+      "text": "citizen of the United States, routing number must also be added.",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         107.0,
+         210.0
+      ],
+      "operator": "Tj",
+      "text": " ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         327.5928,
+         0.0
+      ],
+      "x": 327.5928,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         186.0
+      ],
+      "operator": "TJ",
+      "text": "For invoices within the EU the VAT number must be written on the invoice, if, by local tax ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         174.0
+      ],
+      "operator": "TJ",
+      "text": "law, no VAT number is needed this exception must be stated clearly on the invoice ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         138.0
+      ],
+      "operator": "TJ",
+      "text": "All invoices shall be sent to ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         138.0
+      ],
+      "operator": "TJ",
+      "text": "invoice@dreamhack.se",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         140.0781,
+         0.0
+      ],
+      "x": 140.0781,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         71.0,
+         138.0
+      ],
+      "operator": "Tj",
+      "text": ".  ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         255.3174,
+         0.0
+      ],
+      "x": 255.3174,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         57.0,
+         49.0
+      ],
+      "operator": "TJ",
+      "text": "Address E-mail, web Orgnr,  bankgiro (for Sweden only) International payment information ",
+      "tm": [
+         7.0,
+         0.0,
+         0.0,
+         7.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   },
+   {
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         57.0,
+         42.0
+      ],
+      "operator": "TJ",
+      "text": "DreamHack AB invoice@dreamhack.se Org-nr: 556845-8763        IBAN: SE31 5000 0000 0528 7104 9890 ",
+      "tm": [
+         7.0,
+         0.0,
+         0.0,
+         7.0,
+         0.0,
+         0.0
+      ],
+      "x": 0.0,
+      "y": 0.0
+   }
+]
