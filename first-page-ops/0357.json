@@ -1,5 +1,11 @@
 [
    {
+      "bbox": [
+         129.92,
+         722.3922,
+         225.92,
+         746.3922
+      ],
       "cm": [
          1.0,
          0.0,
@@ -8,6 +14,7 @@
          0.0,
          0.0
       ],
+      "height": 24.0,
       "operator": "TJ",
       "text": "Strategy",
       "tm": [
@@ -18,10 +25,17 @@
          129.92,
          746.3922
       ],
+      "width": 96.0,
       "x": 129.92,
       "y": 746.3922
    },
    {
+      "bbox": [
+         246.04,
+         733.8591,
+         460.53999999999996,
+         746.8591
+      ],
       "cm": [
          1.0,
          0.0,
@@ -30,6 +44,7 @@
          0.0,
          0.0
       ],
+      "height": 13.0,
       "operator": "TJ",
       "text": "Government of Canada Bond Futures",
       "tm": [
@@ -40,10 +55,17 @@
          246.04,
          746.8591
       ],
+      "width": 214.5,
       "x": 246.04,
       "y": 746.8591
    },
    {
+      "bbox": [
+         129.744,
+         690.9982,
+         371.744,
+         712.9982
+      ],
       "cm": [
          1.0,
          0.0,
@@ -52,6 +74,7 @@
          0.0,
          0.0
       ],
+      "height": 22.0,
       "operator": "TJ",
       "text": "Futures invoice spread",
       "tm": [
@@ -62,10 +85,17 @@
          129.744,
          712.9982
       ],
+      "width": 242.0,
       "x": 129.744,
       "y": 712.9982
    },
    {
+      "bbox": [
+         109.656,
+         657.5261,
+         689.656,
+         667.5261
+      ],
       "cm": [
          1.0,
          0.0,
@@ -74,6 +104,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "Invoice spread transactions allow investors to express an opinion on the perceived credit risk of two \u001fnancial debt ",
       "tm": [
@@ -82,12 +113,19 @@
          0.0,
          10.0,
          109.656,
-         573.9260999999997
+         667.5261
       ],
+      "width": 580.0,
       "x": 109.656,
       "y": 667.5261
    },
    {
+      "bbox": [
+         109.656,
+         645.5261,
+         649.656,
+         655.5261
+      ],
       "cm": [
          1.0,
          0.0,
@@ -96,6 +134,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "instruments (for example, a sovereign government bond and an interest rate swap). A widening invoice spread ",
       "tm": [
@@ -104,12 +143,19 @@
          0.0,
          10.0,
          109.656,
-         573.9260999999997
+         655.5261
       ],
+      "width": 540.0,
       "x": 109.656,
       "y": 655.5261
    },
    {
+      "bbox": [
+         109.656,
+         644.3261,
+         704.656,
+         654.3261
+      ],
       "cm": [
          1.0,
          0.0,
@@ -118,6 +164,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "re\u001eects a perceived increase of credit risk. A narrowing invoice spread re\u001eects a perceived diminishing of credit risk.",
       "tm": [
@@ -126,12 +173,19 @@
          0.0,
          10.0,
          109.656,
-         573.9260999999997
+         654.3261
       ],
+      "width": 595.0,
       "x": 109.656,
       "y": 654.3261
    },
    {
+      "bbox": [
+         109.656,
+         620.3261,
+         669.656,
+         630.3261
+      ],
       "cm": [
          1.0,
          0.0,
@@ -140,6 +194,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "The futures invoice spread strategy is based on the forward-starting interest rate swap that begins on the last ",
       "tm": [
@@ -148,12 +203,19 @@
          0.0,
          10.0,
          109.656,
-         573.9260999999997
+         630.3261
       ],
+      "width": 560.0,
       "x": 109.656,
       "y": 630.3261
    },
    {
+      "bbox": [
+         109.656,
+         608.3261,
+         674.656,
+         618.3261
+      ],
       "cm": [
          1.0,
          0.0,
@@ -162,6 +224,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "delivery date of the futures contract and ends at the maturity date of the underlying cash bond (the cheapest-to-",
       "tm": [
@@ -170,12 +233,19 @@
          0.0,
          10.0,
          109.656,
-         573.9260999999997
+         618.3261
       ],
+      "width": 565.0,
       "x": 109.656,
       "y": 618.3261
    },
    {
+      "bbox": [
+         109.656,
+         607.1261,
+         684.656,
+         617.1261
+      ],
       "cm": [
          1.0,
          0.0,
@@ -184,6 +254,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "deliver bond or CTD). The spread represents the difference between the \u001fxed rate of the swap for the same maturity ",
       "tm": [
@@ -192,12 +263,19 @@
          0.0,
          10.0,
          109.656,
-         573.9260999999997
+         617.1261
       ],
+      "width": 575.0,
       "x": 109.656,
       "y": 617.1261
    },
    {
+      "bbox": [
+         109.656,
+         605.9260999999999,
+         679.656,
+         615.9260999999999
+      ],
       "cm": [
          1.0,
          0.0,
@@ -206,6 +284,37 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
+      "operator": "TJ",
+      "text": "and the yield of the bond futures\u0092 CTD. Futures invoice spreads can be traded on-exchange through an Exchange for ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         109.656,
+         615.9260999999999
+      ],
+      "width": 570.0,
+      "x": 109.656,
+      "y": 615.9260999999999
+   },
+   {
+      "bbox": [
+         109.656,
+         604.7260999999999,
+         209.656,
+         614.7260999999999
+      ],
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "Risk (EFR) facility.",
       "tm": [
@@ -214,12 +323,19 @@
          0.0,
          10.0,
          109.656,
-         573.9260999999997
+         614.7260999999999
       ],
+      "width": 100.0,
       "x": 109.656,
       "y": 614.7260999999999
    },
    {
+      "bbox": [
+         109.656,
+         580.7260999999999,
+         664.656,
+         590.7260999999999
+      ],
       "cm": [
          1.0,
          0.0,
@@ -228,6 +344,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "Government bond asset swap spread exposure can be achieved cost ef\u001fciently using interest rate futures instead ",
       "tm": [
@@ -236,12 +353,19 @@
          0.0,
          10.0,
          109.656,
-         573.9260999999997
+         590.7260999999999
       ],
+      "width": 555.0,
       "x": 109.656,
       "y": 590.7260999999999
    },
    {
+      "bbox": [
+         109.656,
+         568.7260999999999,
+         699.656,
+         578.7260999999999
+      ],
       "cm": [
          1.0,
          0.0,
@@ -250,6 +374,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "of cash bonds. To initiate a long/short position in the bond futures market, only an initial margin is required. Bond ",
       "tm": [
@@ -258,12 +383,19 @@
          0.0,
          10.0,
          109.656,
-         573.9260999999997
+         578.7260999999999
       ],
+      "width": 590.0,
       "x": 109.656,
       "y": 578.7260999999999
    },
    {
+      "bbox": [
+         109.656,
+         567.5260999999998,
+         654.656,
+         577.5260999999998
+      ],
       "cm": [
          1.0,
          0.0,
@@ -272,6 +404,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "futures, such as the CGB contract, also have a narrower bid/ask spread than that of the underlying cash bond ",
       "tm": [
@@ -280,12 +413,19 @@
          0.0,
          10.0,
          109.656,
-         573.9260999999997
+         577.5260999999998
       ],
+      "width": 545.0,
       "x": 109.656,
       "y": 577.5260999999998
    },
    {
+      "bbox": [
+         109.656,
+         566.3260999999998,
+         684.656,
+         576.3260999999998
+      ],
       "cm": [
          1.0,
          0.0,
@@ -294,6 +434,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "market. Furthermore, bond futures contracts are a great alternative to investors who cannot short bonds or foreign ",
       "tm": [
@@ -302,12 +443,19 @@
          0.0,
          10.0,
          109.656,
-         573.9260999999997
+         576.3260999999998
       ],
+      "width": 575.0,
       "x": 109.656,
       "y": 576.3260999999998
    },
    {
+      "bbox": [
+         109.656,
+         565.1260999999997,
+         664.656,
+         575.1260999999997
+      ],
       "cm": [
          1.0,
          0.0,
@@ -316,6 +464,37 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
+      "operator": "TJ",
+      "text": "investors that don\u0092t have easy access to the Canadian government bond market. Futures contracts also eliminate ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         109.656,
+         575.1260999999997
+      ],
+      "width": 555.0,
+      "x": 109.656,
+      "y": 575.1260999999997
+   },
+   {
+      "bbox": [
+         109.656,
+         563.9260999999997,
+         474.656,
+         573.9260999999997
+      ],
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "the need to do any \u001fnancing transactions in the repo/reverse repo market.",
       "tm": [
@@ -326,10 +505,17 @@
          109.656,
          573.9260999999997
       ],
+      "width": 365.0,
       "x": 109.656,
       "y": 573.9260999999997
    },
    {
+      "bbox": [
+         109.656,
+         428.3261,
+         485.656,
+         444.3261
+      ],
       "cm": [
          1.0,
          0.0,
@@ -338,6 +524,37 @@
          0.0,
          0.0
       ],
+      "height": 16.0,
+      "operator": "TJ",
+      "text": "Invoice spread analysis \u0096 two strategy examples",
+      "tm": [
+         16.0,
+         0.0,
+         0.0,
+         16.0,
+         109.656,
+         444.3261
+      ],
+      "width": 376.0,
+      "x": 109.656,
+      "y": 444.3261
+   },
+   {
+      "bbox": [
+         109.656,
+         405.9261,
+         439.656,
+         417.9261
+      ],
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "height": 12.0,
       "operator": "TJ",
       "text": "Hedging a forward interest rate swap with CGB contracts",
       "tm": [
@@ -348,10 +565,17 @@
          109.656,
          417.9261
       ],
+      "width": 330.0,
       "x": 109.656,
       "y": 417.9261
    },
    {
+      "bbox": [
+         109.656,
+         383.9261,
+         659.656,
+         393.9261
+      ],
       "cm": [
          1.0,
          0.0,
@@ -360,6 +584,37 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
+      "operator": "TJ",
+      "text": "Bloomberg\u0092s futures invoice spread analysis (IVSP) function calculates the forward bond futures yield against ",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         109.656,
+         393.9261
+      ],
+      "width": 550.0,
+      "x": 109.656,
+      "y": 393.9261
+   },
+   {
+      "bbox": [
+         109.656,
+         382.72610000000003,
+         649.656,
+         392.72610000000003
+      ],
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "a corresponding forward-starting interest rate swap so that investors can evaluate potential invoice spread ",
       "tm": [
@@ -368,12 +623,19 @@
          0.0,
          10.0,
          109.656,
-         389.12610000000006
+         392.72610000000003
       ],
+      "width": 540.0,
       "x": 109.656,
       "y": 392.72610000000003
    },
    {
+      "bbox": [
+         109.656,
+         381.52610000000004,
+         669.656,
+         391.52610000000004
+      ],
       "cm": [
          1.0,
          0.0,
@@ -382,6 +644,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "transactions. The IVSP analytics function can also be used to determine the number of CGB contracts required to ",
       "tm": [
@@ -390,12 +653,19 @@
          0.0,
          10.0,
          109.656,
-         389.12610000000006
+         391.52610000000004
       ],
+      "width": 560.0,
       "x": 109.656,
       "y": 391.52610000000004
    },
    {
+      "bbox": [
+         109.656,
+         380.32610000000005,
+         684.656,
+         390.32610000000005
+      ],
       "cm": [
          1.0,
          0.0,
@@ -404,6 +674,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "hedge a notional amount of $10 million of forward interest rate swaps. In this analysis, we used the CGB June 2012 ",
       "tm": [
@@ -412,9 +683,70 @@
          0.0,
          10.0,
          109.656,
-         389.12610000000006
+         390.32610000000005
       ],
+      "width": 575.0,
       "x": 109.656,
       "y": 390.32610000000005
+   },
+   {
+      "bbox": [
+         109.656,
+         379.12610000000006,
+         454.656,
+         389.12610000000006
+      ],
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "height": 10.0,
+      "operator": "TJ",
+      "text": "contract and the CTD reference bond is the Can 3\u00bd% June 1, 2020 bond.",
+      "tm": [
+         10.0,
+         0.0,
+         0.0,
+         10.0,
+         109.656,
+         389.12610000000006
+      ],
+      "width": 345.0,
+      "x": 109.656,
+      "y": 389.12610000000006
+   },
+   {
+      "bbox": [
+         109.656,
+         32.0021,
+         193.656,
+         46.0021
+      ],
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "height": 14.0,
+      "operator": "TJ",
+      "text": "Cont\u0092d... >>",
+      "tm": [
+         14.0,
+         0.0,
+         0.0,
+         14.0,
+         109.656,
+         46.0021
+      ],
+      "width": 84.0,
+      "x": 109.656,
+      "y": 46.0021
    }
 ]

@@ -1,5 +1,11 @@
 [
    {
+      "bbox": [
+         72.0,
+         685.0413,
+         87.0,
+         686.0413
+      ],
       "cm": [
          1.0,
          0.0,
@@ -8,6 +14,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "Linked Data - The Story So Far",
       "tm": [
@@ -18,10 +25,17 @@
          72.0,
          686.0413
       ],
+      "width": 15.0,
       "x": 72.0,
       "y": 686.0413
    },
    {
+      "bbox": [
+         72.0,
+         643.4229,
+         97.0,
+         644.4229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -30,6 +44,37 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
+      "operator": "Tj",
+      "text": "Christian Bizer, Freie Universit\u008at Berlin, Germany",
+      "tm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         72.0,
+         644.4229
+      ],
+      "width": 25.0,
+      "x": 72.0,
+      "y": 644.4229
+   },
+   {
+      "bbox": [
+         72.0,
+         631.4229,
+         77.0,
+         632.4229
+      ],
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "Tom Heath,",
       "tm": [
@@ -40,10 +85,17 @@
          72.0,
          632.4229
       ],
+      "width": 5.0,
       "x": 72.0,
       "y": 632.4229
    },
    {
+      "bbox": [
+         134.373,
+         631.4229,
+         152.873,
+         632.4229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -52,6 +104,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "Talis Information Ltd, United Kingdom",
       "tm": [
@@ -62,10 +115,17 @@
          134.373,
          632.4229
       ],
+      "width": 18.5,
       "x": 134.373,
       "y": 632.4229
    },
    {
+      "bbox": [
+         72.0,
+         619.4229,
+         101.5,
+         620.4229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -74,6 +134,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "Tim Berners-Lee, Massachusetts Institute of Technology, USA",
       "tm": [
@@ -84,10 +145,17 @@
          72.0,
          620.4229
       ],
+      "width": 29.5,
       "x": 72.0,
       "y": 620.4229
    },
    {
+      "bbox": [
+         72.0,
+         583.4229,
+         119.0,
+         584.4229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -96,6 +164,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "This is a preprint of a paper to appear in: Heath, T., Hepp, M., and Bizer, C. (eds.). Special",
       "tm": [
@@ -106,10 +175,17 @@
          72.0,
          584.4229
       ],
+      "width": 47.0,
       "x": 72.0,
       "y": 584.4229
    },
    {
+      "bbox": [
+         72.0,
+         571.4229,
+         113.5,
+         572.4229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -118,6 +194,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "Issue on Linked Data, International Journal on Semantic Web and Information Systems",
       "tm": [
@@ -128,10 +205,17 @@
          72.0,
          572.4229
       ],
+      "width": 41.5,
       "x": 72.0,
       "y": 572.4229
    },
    {
+      "bbox": [
+         72.0,
+         559.4229,
+         100.5,
+         560.4229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -140,6 +224,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "(IJSWIS). http://linkeddata.org/docs/ijswis-special-issue",
       "tm": [
@@ -150,10 +235,17 @@
          72.0,
          560.4229
       ],
+      "width": 28.5,
       "x": 72.0,
       "y": 560.4229
    },
    {
+      "bbox": [
+         72.0,
+         516.4321,
+         76.0,
+         517.4321
+      ],
       "cm": [
          1.0,
          0.0,
@@ -162,6 +254,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "Abstract",
       "tm": [
@@ -172,10 +265,17 @@
          72.0,
          517.4321
       ],
+      "width": 4.0,
       "x": 72.0,
       "y": 517.4321
    },
    {
+      "bbox": [
+         72.0,
+         488.6229,
+         114.0,
+         489.6229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -184,6 +284,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "The term Linked Data refers to a set of best practices for publishing and connecting",
       "tm": [
@@ -194,10 +295,17 @@
          72.0,
          489.6229
       ],
+      "width": 42.0,
       "x": 72.0,
       "y": 489.6229
    },
    {
+      "bbox": [
+         72.0,
+         476.6229,
+         113.5,
+         477.6229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -206,6 +314,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "structured data on the Web. These best practices have been adopted by an increasing",
       "tm": [
@@ -216,10 +325,17 @@
          72.0,
          477.6229
       ],
+      "width": 41.5,
       "x": 72.0,
       "y": 477.6229
    },
    {
+      "bbox": [
+         72.0,
+         464.6229,
+         118.0,
+         465.6229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -228,6 +344,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "number of data providers over the last three years, leading to the creation of a global data",
       "tm": [
@@ -238,10 +355,17 @@
          72.0,
          465.6229
       ],
+      "width": 46.0,
       "x": 72.0,
       "y": 465.6229
    },
    {
+      "bbox": [
+         72.0,
+         452.6229,
+         116.5,
+         453.6229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -250,6 +374,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "space containing billions of assertions - the Web of Data. In this article we present the",
       "tm": [
@@ -260,10 +385,17 @@
          72.0,
          453.6229
       ],
+      "width": 44.5,
       "x": 72.0,
       "y": 453.6229
    },
    {
+      "bbox": [
+         72.0,
+         440.6229,
+         118.5,
+         441.6229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -272,6 +404,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "concept and technical principles of Linked Data, and situate these within the broader context",
       "tm": [
@@ -282,10 +415,17 @@
          72.0,
          441.6229
       ],
+      "width": 46.5,
       "x": 72.0,
       "y": 441.6229
    },
    {
+      "bbox": [
+         72.0,
+         428.6229,
+         116.0,
+         429.6229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -294,6 +434,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "of related technological developments. We describe progress to date in publishing Linked",
       "tm": [
@@ -304,10 +445,17 @@
          72.0,
          429.6229
       ],
+      "width": 44.0,
       "x": 72.0,
       "y": 429.6229
    },
    {
+      "bbox": [
+         72.0,
+         416.6229,
+         116.5,
+         417.6229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -316,6 +464,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "Data on the Web, review applications that have been developed to exploit the Web of Data,",
       "tm": [
@@ -326,10 +475,17 @@
          72.0,
          417.6229
       ],
+      "width": 44.5,
       "x": 72.0,
       "y": 417.6229
    },
    {
+      "bbox": [
+         72.0,
+         404.6229,
+         112.0,
+         405.6229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -338,6 +494,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "and map out a research agenda for the Linked Data community as it moves forward.",
       "tm": [
@@ -348,10 +505,17 @@
          72.0,
          405.6229
       ],
+      "width": 40.0,
       "x": 72.0,
       "y": 405.6229
    },
    {
+      "bbox": [
+         72.0,
+         380.6229,
+         76.5,
+         381.6229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -360,6 +524,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "Keywords:",
       "tm": [
@@ -370,10 +535,17 @@
          72.0,
          381.6229
       ],
+      "width": 4.5,
       "x": 72.0,
       "y": 381.6229
    },
    {
+      "bbox": [
+         134.9541,
+         380.6229,
+         169.9541,
+         381.6229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -382,6 +554,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "Linked Data, Web of Data, Semantic Web, Data Sharing, Data Exploration",
       "tm": [
@@ -392,10 +565,17 @@
          134.9541,
          381.6229
       ],
+      "width": 35.0,
       "x": 134.9541,
       "y": 381.6229
    },
    {
+      "bbox": [
+         72.0,
+         337.6321,
+         79.5,
+         338.6321
+      ],
       "cm": [
          1.0,
          0.0,
@@ -404,6 +584,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "1. Introduction",
       "tm": [
@@ -414,10 +595,17 @@
          72.0,
          338.6321
       ],
+      "width": 7.5,
       "x": 72.0,
       "y": 338.6321
    },
    {
+      "bbox": [
+         72.0,
+         309.8229,
+         113.5,
+         310.8229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -426,6 +614,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "The World Wide Web has radically altered the way we share knowledge by lowering the",
       "tm": [
@@ -436,10 +625,17 @@
          72.0,
          310.8229
       ],
+      "width": 41.5,
       "x": 72.0,
       "y": 310.8229
    },
    {
+      "bbox": [
+         72.0,
+         297.8229,
+         114.0,
+         298.8229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -448,6 +644,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "barrier to publishing and accessing documents as part of a global information space.",
       "tm": [
@@ -458,10 +655,17 @@
          72.0,
          298.8229
       ],
+      "width": 42.0,
       "x": 72.0,
       "y": 298.8229
    },
    {
+      "bbox": [
+         72.0,
+         285.8229,
+         116.0,
+         286.8229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -470,6 +674,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "Hypertext links allow users to traverse this information space using Web browsers, while",
       "tm": [
@@ -480,10 +685,17 @@
          72.0,
          286.8229
       ],
+      "width": 44.0,
       "x": 72.0,
       "y": 286.8229
    },
    {
+      "bbox": [
+         72.0,
+         273.8229,
+         114.5,
+         274.8229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -492,6 +704,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "search engines index the documents and analyse the structure of links between them to",
       "tm": [
@@ -502,10 +715,17 @@
          72.0,
          274.8229
       ],
+      "width": 42.5,
       "x": 72.0,
       "y": 274.8229
    },
    {
+      "bbox": [
+         72.0,
+         261.8229,
+         119.0,
+         262.8229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -514,6 +734,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "infer potential relevance to users' search queries (Brin & Page, 1998). This functionality has",
       "tm": [
@@ -524,10 +745,17 @@
          72.0,
          262.8229
       ],
+      "width": 47.0,
       "x": 72.0,
       "y": 262.8229
    },
    {
+      "bbox": [
+         72.0,
+         249.8229,
+         113.5,
+         250.8229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -536,6 +764,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "been enabled by the generic, open and extensible nature of the Web (Jacobs & Walsh,",
       "tm": [
@@ -546,10 +775,17 @@
          72.0,
          250.8229
       ],
+      "width": 41.5,
       "x": 72.0,
       "y": 250.8229
    },
    {
+      "bbox": [
+         72.0,
+         237.8229,
+         110.5,
+         238.8229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -558,6 +794,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "2004), which is also seen as a key feature in the Web's unconstrained growth.",
       "tm": [
@@ -568,10 +805,17 @@
          72.0,
          238.8229
       ],
+      "width": 38.5,
       "x": 72.0,
       "y": 238.8229
    },
    {
+      "bbox": [
+         72.0,
+         213.8229,
+         116.5,
+         214.8229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -580,6 +824,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "Despite the inarguable benefits the Web provides, until recently the same principles that",
       "tm": [
@@ -590,10 +835,17 @@
          72.0,
          214.8229
       ],
+      "width": 44.5,
       "x": 72.0,
       "y": 214.8229
    },
    {
+      "bbox": [
+         72.0,
+         201.8229,
+         117.5,
+         202.8229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -602,6 +854,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "enabled the Web of documents to flourish have not been applied to data. Traditionally, data",
       "tm": [
@@ -612,10 +865,17 @@
          72.0,
          202.8229
       ],
+      "width": 45.5,
       "x": 72.0,
       "y": 202.8229
    },
    {
+      "bbox": [
+         72.0,
+         189.8229,
+         113.5,
+         190.8229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -624,6 +884,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "published on the Web has been made available as raw dumps in formats such as CSV or",
       "tm": [
@@ -634,10 +895,17 @@
          72.0,
          190.8229
       ],
+      "width": 41.5,
       "x": 72.0,
       "y": 190.8229
    },
    {
+      "bbox": [
+         72.0,
+         177.8229,
+         116.5,
+         178.8229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -646,6 +914,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "XML, or marked up as HTML tables, sacrificing much of its structure and semantics. In the",
       "tm": [
@@ -656,10 +925,17 @@
          72.0,
          178.8229
       ],
+      "width": 44.5,
       "x": 72.0,
       "y": 178.8229
    },
    {
+      "bbox": [
+         72.0,
+         165.8229,
+         117.0,
+         166.8229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -668,6 +944,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "conventional hypertext Web, the nature of the relationship between two linked documents is",
       "tm": [
@@ -678,10 +955,17 @@
          72.0,
          166.8229
       ],
+      "width": 45.0,
       "x": 72.0,
       "y": 166.8229
    },
    {
+      "bbox": [
+         72.0,
+         153.8229,
+         118.0,
+         154.8229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -690,6 +974,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "implicit, as the data format, i.e. HTML, is not sufficiently expressive to enable individual",
       "tm": [
@@ -700,10 +985,17 @@
          72.0,
          154.8229
       ],
+      "width": 46.0,
       "x": 72.0,
       "y": 154.8229
    },
    {
+      "bbox": [
+         72.0,
+         141.8229,
+         114.5,
+         142.8229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -712,6 +1004,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "entities described in a particular document to be connected by typed links to related",
       "tm": [
@@ -722,10 +1015,17 @@
          72.0,
          142.8229
       ],
+      "width": 42.5,
       "x": 72.0,
       "y": 142.8229
    },
    {
+      "bbox": [
+         72.0,
+         129.8229,
+         76.5,
+         130.8229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -734,6 +1034,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "entities.",
       "tm": [
@@ -744,10 +1045,17 @@
          72.0,
          130.8229
       ],
+      "width": 4.5,
       "x": 72.0,
       "y": 130.8229
    },
    {
+      "bbox": [
+         72.0,
+         105.8229,
+         115.0,
+         106.8229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -756,6 +1064,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "However, in recent years the Web has evolved from a global information space of linked",
       "tm": [
@@ -766,10 +1075,17 @@
          72.0,
          106.8229
       ],
+      "width": 43.0,
       "x": 72.0,
       "y": 106.8229
    },
    {
+      "bbox": [
+         72.0,
+         93.8229,
+         116.5,
+         94.8229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -778,6 +1094,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "documents to one where both documents and data are linked. Underpinning this evolution is",
       "tm": [
@@ -788,10 +1105,17 @@
          72.0,
          94.8229
       ],
+      "width": 44.5,
       "x": 72.0,
       "y": 94.8229
    },
    {
+      "bbox": [
+         72.0,
+         81.8229,
+         116.5,
+         82.8229
+      ],
       "cm": [
          1.0,
          0.0,
@@ -800,6 +1124,7 @@
          0.0,
          0.0
       ],
+      "height": 1.0,
       "operator": "Tj",
       "text": "a set of best practices for publishing and connecting structured data on the Web known as",
       "tm": [
@@ -810,6 +1135,7 @@
          72.0,
          82.8229
       ],
+      "width": 44.5,
       "x": 72.0,
       "y": 82.8229
    }

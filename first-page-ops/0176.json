@@ -1,5 +1,11 @@
 [
    {
+      "bbox": [
+         99.2126,
+         729.6238,
+         471.2126,
+         753.6238
+      ],
       "cm": [
          1.0,
          0.0,
@@ -8,6 +14,7 @@
          0.0,
          0.0
       ],
+      "height": 24.0,
       "operator": "TJ",
       "text": "\u001fe North Atlantic Treaty (1949)",
       "tm": [
@@ -18,10 +25,17 @@
          99.2126,
          753.6238
       ],
+      "width": 372.0,
       "x": 99.2126,
       "y": 753.6238
    },
    {
+      "bbox": [
+         99.2126,
+         702.9813,
+         309.2126,
+         716.9813
+      ],
       "cm": [
          1.0,
          0.0,
@@ -30,6 +44,7 @@
          0.0,
          0.0
       ],
+      "height": 14.0,
       "operator": "TJ",
       "text": "Washington D.C. - 4 April 1949",
       "tm": [
@@ -40,10 +55,17 @@
          99.2126,
          716.9813
       ],
+      "width": 210.0,
       "x": 99.2126,
       "y": 716.9813
    },
    {
+      "bbox": [
+         99.2126,
+         686.4774,
+         502.9626,
+         696.4774
+      ],
       "cm": [
          1.0,
          0.0,
@@ -52,6 +74,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "The Parties to this Treaty reaf\u001frm their faith in the purposes and principles of the ",
       "tm": [
@@ -62,10 +85,17 @@
          99.2126,
          696.4774
       ],
+      "width": 403.75,
       "x": 99.2126,
       "y": 696.4774
    },
    {
+      "bbox": [
+         99.2126,
+         674.4774,
+         521.9626,
+         684.4774
+      ],
       "cm": [
          1.0,
          0.0,
@@ -74,6 +104,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "Tj",
       "text": "Charter of the United Nations and their desire to live in peace with all peoples and all ",
       "tm": [
@@ -84,10 +115,17 @@
          99.2126,
          684.4774
       ],
+      "width": 422.75,
       "x": 99.2126,
       "y": 684.4774
    },
    {
+      "bbox": [
+         99.2126,
+         662.4774,
+         156.2126,
+         672.4774
+      ],
       "cm": [
          1.0,
          0.0,
@@ -96,6 +134,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "Tj",
       "text": "governments.",
       "tm": [
@@ -106,10 +145,17 @@
          99.2126,
          672.4774
       ],
+      "width": 57.0,
       "x": 99.2126,
       "y": 672.4774
    },
    {
+      "bbox": [
+         99.2126,
+         644.8081,
+         488.7126,
+         654.8081
+      ],
       "cm": [
          1.0,
          0.0,
@@ -118,6 +164,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "Tj",
       "text": "They are determined to safeguard the freedom, common heritage and civilisation of ",
       "tm": [
@@ -128,10 +175,17 @@
          99.2126,
          654.8081
       ],
+      "width": 389.5,
       "x": 99.2126,
       "y": 654.8081
    },
    {
+      "bbox": [
+         99.2126,
+         632.8081,
+         526.7126,
+         642.8081
+      ],
       "cm": [
          1.0,
          0.0,
@@ -140,6 +194,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "their peoples, founded on the principles of democracy, individual liberty and the rule of ",
       "tm": [
@@ -150,10 +205,17 @@
          99.2126,
          642.8081
       ],
+      "width": 427.5,
       "x": 99.2126,
       "y": 642.8081
    },
    {
+      "bbox": [
+         99.2126,
+         620.8081,
+         469.7126,
+         630.8081
+      ],
       "cm": [
          1.0,
          0.0,
@@ -162,6 +224,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "law. They seek to promote stability and well-being in the North Atlantic area.",
       "tm": [
@@ -172,10 +235,17 @@
          99.2126,
          630.8081
       ],
+      "width": 370.5,
       "x": 99.2126,
       "y": 630.8081
    },
    {
+      "bbox": [
+         99.2126,
+         603.1388,
+         521.9626,
+         613.1388
+      ],
       "cm": [
          1.0,
          0.0,
@@ -184,6 +254,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "They are resolved to unite their efforts for collective defence and for the preservation ",
       "tm": [
@@ -194,10 +265,17 @@
          99.2126,
          613.1388
       ],
+      "width": 422.75,
       "x": 99.2126,
       "y": 613.1388
    },
    {
+      "bbox": [
+         99.2126,
+         591.1388,
+         450.7126,
+         601.1388
+      ],
       "cm": [
          1.0,
          0.0,
@@ -206,6 +284,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "of peace and security. They therefore agree to this North Atlantic Treaty:",
       "tm": [
@@ -216,10 +295,17 @@
          99.2126,
          601.1388
       ],
+      "width": 351.5,
       "x": 99.2126,
       "y": 601.1388
    },
    {
+      "bbox": [
+         99.2126,
+         567.8002,
+         141.9626,
+         577.8002
+      ],
       "cm": [
          1.0,
          0.0,
@@ -228,6 +314,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "Tj",
       "text": "Article 1",
       "tm": [
@@ -238,10 +325,17 @@
          99.2126,
          577.8002
       ],
+      "width": 42.75,
       "x": 99.2126,
       "y": 577.8002
    },
    {
+      "bbox": [
+         99.2126,
+         550.1309,
+         517.2126,
+         560.1309
+      ],
       "cm": [
          1.0,
          0.0,
@@ -250,6 +344,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "The Parties undertake, as set forth in the Charter of the United Nations, to settle any ",
       "tm": [
@@ -260,10 +355,17 @@
          99.2126,
          560.1309
       ],
+      "width": 418.0,
       "x": 99.2126,
       "y": 560.1309
    },
    {
+      "bbox": [
+         99.2126,
+         538.1309,
+         512.4626,
+         548.1309
+      ],
       "cm": [
          1.0,
          0.0,
@@ -272,6 +374,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "international dispute in which they may be involved by peaceful means in such a manner ",
       "tm": [
@@ -282,10 +385,17 @@
          99.2126,
          548.1309
       ],
+      "width": 413.25,
       "x": 99.2126,
       "y": 548.1309
    },
    {
+      "bbox": [
+         99.2126,
+         526.1309,
+         545.7126,
+         536.1309
+      ],
       "cm": [
          1.0,
          0.0,
@@ -294,6 +404,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "that international peace and security and justice are not endangered, and to refrain in their ",
       "tm": [
@@ -304,10 +415,17 @@
          99.2126,
          536.1309
       ],
+      "width": 446.5,
       "x": 99.2126,
       "y": 536.1309
    },
    {
+      "bbox": [
+         99.2126,
+         514.1309,
+         536.2126,
+         524.1309
+      ],
       "cm": [
          1.0,
          0.0,
@@ -316,6 +434,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "international relations from the threat or use of force in any manner inconsistent with the ",
       "tm": [
@@ -326,10 +445,17 @@
          99.2126,
          524.1309
       ],
+      "width": 437.0,
       "x": 99.2126,
       "y": 524.1309
    },
    {
+      "bbox": [
+         99.2126,
+         502.1309,
+         246.4626,
+         512.1309
+      ],
       "cm": [
          1.0,
          0.0,
@@ -338,6 +464,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "Tj",
       "text": "purposes of the United Nations.",
       "tm": [
@@ -348,10 +475,17 @@
          99.2126,
          512.1309
       ],
+      "width": 147.25,
       "x": 99.2126,
       "y": 512.1309
    },
    {
+      "bbox": [
+         99.2126,
+         478.7924,
+         141.9626,
+         488.7924
+      ],
       "cm": [
          1.0,
          0.0,
@@ -360,6 +494,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "Tj",
       "text": "Article 2",
       "tm": [
@@ -370,10 +505,17 @@
          99.2126,
          488.7924
       ],
+      "width": 42.75,
       "x": 99.2126,
       "y": 488.7924
    },
    {
+      "bbox": [
+         99.2126,
+         461.123,
+         498.2126,
+         471.123
+      ],
       "cm": [
          1.0,
          0.0,
@@ -382,6 +524,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "The Parties will contribute toward the further development of peaceful and friendly ",
       "tm": [
@@ -392,10 +535,17 @@
          99.2126,
          471.123
       ],
+      "width": 399.0,
       "x": 99.2126,
       "y": 471.123
    },
    {
+      "bbox": [
+         99.2126,
+         449.123,
+         540.9626,
+         459.123
+      ],
       "cm": [
          1.0,
          0.0,
@@ -404,6 +554,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "international relations by strengthening their free institutions, by bringing about a better ",
       "tm": [
@@ -414,10 +565,17 @@
          99.2126,
          459.123
       ],
+      "width": 441.75,
       "x": 99.2126,
       "y": 459.123
    },
    {
+      "bbox": [
+         99.2126,
+         437.123,
+         536.2126,
+         447.123
+      ],
       "cm": [
          1.0,
          0.0,
@@ -426,6 +584,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "understanding of the principles upon which these institutions are founded, and by promoting ",
       "tm": [
@@ -436,10 +595,17 @@
          99.2126,
          447.123
       ],
+      "width": 437.0,
       "x": 99.2126,
       "y": 447.123
    },
    {
+      "bbox": [
+         99.2126,
+         425.123,
+         569.4626,
+         435.123
+      ],
       "cm": [
          1.0,
          0.0,
@@ -448,6 +614,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "conditions of stability and well-being. They will seek to eliminate con\u001fict in their international ",
       "tm": [
@@ -458,10 +625,17 @@
          99.2126,
          435.123
       ],
+      "width": 470.25,
       "x": 99.2126,
       "y": 435.123
    },
    {
+      "bbox": [
+         99.2126,
+         413.123,
+         512.4626,
+         423.123
+      ],
       "cm": [
          1.0,
          0.0,
@@ -470,6 +644,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "economic policies and will encourage economic collaboration between any or all of them.",
       "tm": [
@@ -480,10 +655,17 @@
          99.2126,
          423.123
       ],
+      "width": 413.25,
       "x": 99.2126,
       "y": 423.123
    },
    {
+      "bbox": [
+         99.2126,
+         389.7845,
+         141.9626,
+         399.7845
+      ],
       "cm": [
          1.0,
          0.0,
@@ -492,6 +674,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "Tj",
       "text": "Article 3",
       "tm": [
@@ -502,10 +685,17 @@
          99.2126,
          399.7845
       ],
+      "width": 42.75,
       "x": 99.2126,
       "y": 399.7845
    },
    {
+      "bbox": [
+         99.2126,
+         372.1152,
+         555.2126,
+         382.1152
+      ],
       "cm": [
          1.0,
          0.0,
@@ -514,6 +704,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "In order more effectively to achieve the objectives of this Treaty, the Parties, separately and ",
       "tm": [
@@ -524,10 +715,17 @@
          99.2126,
          382.1152
       ],
+      "width": 456.0,
       "x": 99.2126,
       "y": 382.1152
    },
    {
+      "bbox": [
+         99.2126,
+         360.1152,
+         526.7126,
+         370.1152
+      ],
       "cm": [
          1.0,
          0.0,
@@ -536,6 +734,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "jointly, by means of continuous and effective self-help and mutual aid, will maintain and ",
       "tm": [
@@ -546,10 +745,17 @@
          99.2126,
          370.1152
       ],
+      "width": 427.5,
       "x": 99.2126,
       "y": 370.1152
    },
    {
+      "bbox": [
+         99.2126,
+         348.1152,
+         441.2126,
+         358.1152
+      ],
       "cm": [
          1.0,
          0.0,
@@ -558,6 +764,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "develop their individual and collective capacity to resist armed attack.",
       "tm": [
@@ -568,10 +775,17 @@
          99.2126,
          358.1152
       ],
+      "width": 342.0,
       "x": 99.2126,
       "y": 358.1152
    },
    {
+      "bbox": [
+         99.2126,
+         324.7766,
+         141.9626,
+         334.7766
+      ],
       "cm": [
          1.0,
          0.0,
@@ -580,6 +794,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "Tj",
       "text": "Article 4",
       "tm": [
@@ -590,10 +805,17 @@
          99.2126,
          334.7766
       ],
+      "width": 42.75,
       "x": 99.2126,
       "y": 334.7766
    },
    {
+      "bbox": [
+         99.2126,
+         307.1073,
+         531.4626,
+         317.1073
+      ],
       "cm": [
          1.0,
          0.0,
@@ -602,6 +824,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "The Parties will consult together whenever, in the opinion of any of them, the territorial ",
       "tm": [
@@ -612,10 +835,17 @@
          99.2126,
          317.1073
       ],
+      "width": 432.25,
       "x": 99.2126,
       "y": 317.1073
    },
    {
+      "bbox": [
+         99.2126,
+         295.1073,
+         488.7126,
+         305.1073
+      ],
       "cm": [
          1.0,
          0.0,
@@ -624,6 +854,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "integrity, political independence or security of any of the Parties is threatened.",
       "tm": [
@@ -634,10 +865,17 @@
          99.2126,
          305.1073
       ],
+      "width": 389.5,
       "x": 99.2126,
       "y": 305.1073
    },
    {
+      "bbox": [
+         99.2126,
+         271.7687,
+         141.9626,
+         281.7687
+      ],
       "cm": [
          1.0,
          0.0,
@@ -646,6 +884,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "Tj",
       "text": "Article 5",
       "tm": [
@@ -656,10 +895,17 @@
          99.2126,
          281.7687
       ],
+      "width": 42.75,
       "x": 99.2126,
       "y": 281.7687
    },
    {
+      "bbox": [
+         99.2126,
+         254.0994,
+         507.7126,
+         264.0994
+      ],
       "cm": [
          1.0,
          0.0,
@@ -668,6 +914,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "The Parties agree that an armed attack against one or more of them in Europe or North ",
       "tm": [
@@ -678,10 +925,17 @@
          99.2126,
          264.0994
       ],
+      "width": 408.5,
       "x": 99.2126,
       "y": 264.0994
    },
    {
+      "bbox": [
+         99.2126,
+         242.0994,
+         536.2126,
+         252.0994
+      ],
       "cm": [
          1.0,
          0.0,
@@ -690,6 +944,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "America shall be considered an attack against them all and consequently they agree that, if ",
       "tm": [
@@ -700,10 +955,17 @@
          99.2126,
          252.0994
       ],
+      "width": 437.0,
       "x": 99.2126,
       "y": 252.0994
    },
    {
+      "bbox": [
+         99.2126,
+         230.0994,
+         555.2126,
+         240.0994
+      ],
       "cm": [
          1.0,
          0.0,
@@ -712,6 +974,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "such an armed attack occurs, each of them, in exercise of the right of individual or collective ",
       "tm": [
@@ -722,10 +985,17 @@
          99.2126,
          240.0994
       ],
+      "width": 456.0,
       "x": 99.2126,
       "y": 240.0994
    },
    {
+      "bbox": [
+         99.2126,
+         218.0994,
+         536.2126,
+         228.0994
+      ],
       "cm": [
          1.0,
          0.0,
@@ -734,6 +1004,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "self-defence recognised by Article 51 of the Charter of the United Nations, will assist the ",
       "tm": [
@@ -744,10 +1015,17 @@
          99.2126,
          228.0994
       ],
+      "width": 437.0,
       "x": 99.2126,
       "y": 228.0994
    },
    {
+      "bbox": [
+         99.2126,
+         206.0994,
+         540.9626,
+         216.0994
+      ],
       "cm": [
          1.0,
          0.0,
@@ -756,6 +1034,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "Party or Parties so attacked by taking forthwith, individually and in concert with the other ",
       "tm": [
@@ -766,10 +1045,17 @@
          99.2126,
          216.0994
       ],
+      "width": 441.75,
       "x": 99.2126,
       "y": 216.0994
    },
    {
+      "bbox": [
+         99.2126,
+         194.0994,
+         540.9626,
+         204.0994
+      ],
       "cm": [
          1.0,
          0.0,
@@ -778,6 +1064,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "Parties, such action as it deems necessary, including the use of armed force, to restore and ",
       "tm": [
@@ -788,10 +1075,17 @@
          99.2126,
          204.0994
       ],
+      "width": 441.75,
       "x": 99.2126,
       "y": 204.0994
    },
    {
+      "bbox": [
+         99.2126,
+         182.0994,
+         331.9626,
+         192.0994
+      ],
       "cm": [
          1.0,
          0.0,
@@ -800,6 +1094,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "maintain the security of the North Atlantic area.",
       "tm": [
@@ -810,10 +1105,17 @@
          99.2126,
          192.0994
       ],
+      "width": 232.75,
       "x": 99.2126,
       "y": 192.0994
    },
    {
+      "bbox": [
+         99.2126,
+         164.4301,
+         507.7126,
+         174.4301
+      ],
       "cm": [
          1.0,
          0.0,
@@ -822,6 +1124,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "Any such armed attack and all measures taken as a result thereof shall immediately be ",
       "tm": [
@@ -832,10 +1135,17 @@
          99.2126,
          174.4301
       ],
+      "width": 408.5,
       "x": 99.2126,
       "y": 174.4301
    },
    {
+      "bbox": [
+         99.2126,
+         152.4301,
+         507.7126,
+         162.4301
+      ],
       "cm": [
          1.0,
          0.0,
@@ -844,6 +1154,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "reported to the Security Council. Such measures shall be terminated when the Security ",
       "tm": [
@@ -854,10 +1165,17 @@
          99.2126,
          162.4301
       ],
+      "width": 408.5,
       "x": 99.2126,
       "y": 162.4301
    },
    {
+      "bbox": [
+         99.2126,
+         140.4301,
+         502.9626,
+         150.4301
+      ],
       "cm": [
          1.0,
          0.0,
@@ -866,6 +1184,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "Council has taken the measures necessary to restore and maintain international peace ",
       "tm": [
@@ -876,10 +1195,17 @@
          99.2126,
          150.4301
       ],
+      "width": 403.75,
       "x": 99.2126,
       "y": 150.4301
    },
    {
+      "bbox": [
+         467.5152,
+         140.4301,
+         472.2652,
+         150.4301
+      ],
       "cm": [
          1.0,
          0.0,
@@ -888,6 +1214,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "Tj",
       "text": " ",
       "tm": [
@@ -898,10 +1225,17 @@
          467.5152,
          150.4301
       ],
+      "width": 4.75,
       "x": 467.5152,
       "y": 150.4301
    },
    {
+      "bbox": [
+         99.2126,
+         128.4301,
+         160.9626,
+         138.4301
+      ],
       "cm": [
          1.0,
          0.0,
@@ -910,6 +1244,7 @@
          0.0,
          0.0
       ],
+      "height": 10.0,
       "operator": "TJ",
       "text": "and security.",
       "tm": [
@@ -920,6 +1255,7 @@
          99.2126,
          138.4301
       ],
+      "width": 61.75,
       "x": 99.2126,
       "y": 138.4301
    }

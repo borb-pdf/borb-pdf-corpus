@@ -1,5 +1,11 @@
 [
    {
+      "bbox": [
+         35.4331,
+         246.67020000000002,
+         464.4331,
+         257.6702
+      ],
       "cm": [
          1.0,
          0.0,
@@ -8,6 +14,7 @@
          0.0,
          0.0
       ],
+      "height": 11.0,
       "operator": "TJ",
       "text": "Verantwoord werken met machines die op een duurzame wijze geproduceerd worden.",
       "tm": [
@@ -18,10 +25,17 @@
          35.4331,
          257.6702
       ],
+      "width": 429.0,
       "x": 35.4331,
       "y": 257.6702
    },
    {
+      "bbox": [
+         35.4331,
+         228.6702,
+         475.4331,
+         239.6702
+      ],
       "cm": [
          1.0,
          0.0,
@@ -30,6 +44,7 @@
          0.0,
          0.0
       ],
+      "height": 11.0,
       "operator": "TJ",
       "text": "Machines met een lange levensduur, die weinig onderhoud nodig hebben en daardoor",
       "tm": [
@@ -40,10 +55,17 @@
          35.4331,
          239.6702
       ],
+      "width": 440.0,
       "x": 35.4331,
       "y": 239.6702
    },
    {
+      "bbox": [
+         35.4331,
+         210.6702,
+         513.9331,
+         221.6702
+      ],
       "cm": [
          1.0,
          0.0,
@@ -52,6 +74,7 @@
          0.0,
          0.0
       ],
+      "height": 11.0,
       "operator": "TJ",
       "text": "garant staan voor een lang en probleemloos leven. Bij Conver zijn de maaiverzamelboten ",
       "tm": [
@@ -62,10 +85,17 @@
          35.4331,
          221.6702
       ],
+      "width": 478.5,
       "x": 35.4331,
       "y": 221.6702
    },
    {
+      "bbox": [
+         35.4331,
+         192.6702,
+         546.9331,
+         203.6702
+      ],
       "cm": [
          1.0,
          0.0,
@@ -74,6 +104,7 @@
          0.0,
          0.0
       ],
+      "height": 11.0,
       "operator": "TJ",
       "text": "speciaal ontwikkeld om waterplanten en/of drijfvuil uit watergangen en meren te verwijderen. ",
       "tm": [
@@ -84,10 +115,17 @@
          35.4331,
          203.6702
       ],
+      "width": 511.5,
       "x": 35.4331,
       "y": 203.6702
    },
    {
+      "bbox": [
+         35.4331,
+         174.6702,
+         552.4331,
+         185.6702
+      ],
       "cm": [
          1.0,
          0.0,
@@ -96,6 +134,7 @@
          0.0,
          0.0
       ],
+      "height": 11.0,
       "operator": "TJ",
       "text": "Niet alleen drijvende planten als Lemna (kroos) en Waterhyacinth (Eichhornia Crassipes), maar ",
       "tm": [
@@ -106,10 +145,17 @@
          35.4331,
          185.6702
       ],
+      "width": 517.0,
       "x": 35.4331,
       "y": 185.6702
    },
    {
+      "bbox": [
+         35.4331,
+         156.6702,
+         541.4331,
+         167.6702
+      ],
       "cm": [
          1.0,
          0.0,
@@ -118,6 +164,7 @@
          0.0,
          0.0
       ],
+      "height": 11.0,
       "operator": "TJ",
       "text": "ook wortelende planten als Waterpest (Elodea) en vele andere soorten kunnen worden geoogst. ",
       "tm": [
@@ -128,10 +175,17 @@
          35.4331,
          167.6702
       ],
+      "width": 506.0,
       "x": 35.4331,
       "y": 167.6702
    },
    {
+      "bbox": [
+         36.0599,
+         713.4893,
+         513.0599,
+         766.4893
+      ],
       "cm": [
          1.0,
          0.0,
@@ -140,6 +194,7 @@
          0.0,
          0.0
       ],
+      "height": 53.0,
       "operator": "TJ",
       "text": "Verantwoord werken",
       "tm": [
@@ -150,10 +205,17 @@
          36.0599,
          766.4893
       ],
+      "width": 477.0,
       "x": 36.0599,
       "y": 766.4893
    },
    {
+      "bbox": [
+         272.6447,
+         27.1976,
+         503.6447,
+         48.1976
+      ],
       "cm": [
          1.0,
          0.0,
@@ -162,6 +224,7 @@
          0.0,
          0.0
       ],
+      "height": 21.0,
       "operator": "TJ",
       "text": "HET ZIT IN ONZE NATUUR",
       "tm": [
@@ -172,10 +235,17 @@
          272.6447,
          48.1976
       ],
+      "width": 231.0,
       "x": 272.6447,
       "y": 48.1976
    },
    {
+      "bbox": [
+         47.9466,
+         99.9483,
+         496.4466,
+         122.9483
+      ],
       "cm": [
          1.0,
          0.0,
@@ -184,6 +254,7 @@
          0.0,
          0.0
       ],
+      "height": 23.0,
       "operator": "Tj",
       "text": "Ontdek de nieuwe MC101 maaiverzamelboot",
       "tm": [
@@ -194,6 +265,7 @@
          47.9466,
          122.9483
       ],
+      "width": 448.5,
       "x": 47.9466,
       "y": 122.9483
    }

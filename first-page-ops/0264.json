@@ -1,5 +1,11 @@
 [
    {
+      "bbox": [
+         108.5473,
+         44.7502,
+         644.5473,
+         60.7502
+      ],
       "cm": [
          1.0,
          0.0,
@@ -8,6 +14,97 @@
          0.0,
          0.0
       ],
+      "height": 16.0,
+      "operator": "TJ",
+      "text": "\u0093Filled with food and passion . . . If you love historical \u001fction, ",
+      "tm": [
+         16.0,
+         0.0,
+         0.0,
+         16.0,
+         108.5473,
+         60.7502
+      ],
+      "width": 536.0,
+      "x": 108.5473,
+      "y": 60.7502
+   },
+   {
+      "bbox": [
+         186.1218,
+         22.6002,
+         442.1218,
+         38.6002
+      ],
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "height": 16.0,
+      "operator": "TJ",
+      "text": "you\u0092ll fall hard for this one.\u0094 ",
+      "tm": [
+         16.0,
+         0.0,
+         0.0,
+         16.0,
+         186.1218,
+         38.6002
+      ],
+      "width": 256.0,
+      "x": 186.1218,
+      "y": 38.6002
+   },
+   {
+      "bbox": [
+         369.0149,
+         22.6002,
+         425.0149,
+         38.6002
+      ],
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "height": 16.0,
+      "operator": "Tj",
+      "text": "\u0097Bustle",
+      "tm": [
+         16.0,
+         0.0,
+         0.0,
+         16.0,
+         369.0149,
+         38.6002
+      ],
+      "width": 56.0,
+      "x": 369.0149,
+      "y": 38.6002
+   },
+   {
+      "bbox": [
+         23.0,
+         219.6001,
+         719.0,
+         231.6001
+      ],
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "height": 12.0,
       "operator": "TJ",
       "text": "Los Angeles, 1934. Mary Frances is young, restlessly married, and returning from her \u001frst sojourn in France. She is ",
       "tm": [
@@ -18,10 +115,17 @@
          23.0,
          231.6001
       ],
+      "width": 696.0,
       "x": 23.0,
       "y": 231.6001
    },
    {
+      "bbox": [
+         23.0,
+         204.4501,
+         743.0,
+         216.4501
+      ],
       "cm": [
          1.0,
          0.0,
@@ -30,6 +134,67 @@
          0.0,
          0.0
       ],
+      "height": 12.0,
+      "operator": "TJ",
+      "text": "hungry, and not just for food: she wants Tim, her husband Al\u0092s charming friend, who encourages her writing and seems to ",
+      "tm": [
+         12.0,
+         0.0,
+         0.0,
+         12.0,
+         23.0,
+         216.4501
+      ],
+      "width": 720.0,
+      "x": 23.0,
+      "y": 216.4501
+   },
+   {
+      "bbox": [
+         23.0,
+         189.3001,
+         773.0,
+         201.3001
+      ],
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "height": 12.0,
+      "operator": "TJ",
+      "text": "understand her better than anyone. After a night\u0092s transgression, it\u0092s only a matter of time before Mary Frances claims what ",
+      "tm": [
+         12.0,
+         0.0,
+         0.0,
+         12.0,
+         23.0,
+         201.3001
+      ],
+      "width": 750.0,
+      "x": 23.0,
+      "y": 201.3001
+   },
+   {
+      "bbox": [
+         23.0,
+         174.1501,
+         791.0,
+         186.1501
+      ],
+      "cm": [
+         1.0,
+         0.0,
+         0.0,
+         1.0,
+         0.0,
+         0.0
+      ],
+      "height": 12.0,
       "operator": "TJ",
       "text": "she truly desires, plunging all three of them into a tangled triangle of affection that will have far-reaching effects on their ",
       "tm": [
@@ -40,10 +205,17 @@
          23.0,
          186.1501
       ],
+      "width": 768.0,
       "x": 23.0,
       "y": 186.1501
    },
    {
+      "bbox": [
+         23.0,
+         159.0002,
+         269.0,
+         171.0002
+      ],
       "cm": [
          1.0,
          0.0,
@@ -52,6 +224,7 @@
          0.0,
          0.0
       ],
+      "height": 12.0,
       "operator": "TJ",
       "text": "families, their careers, and their lives.",
       "tm": [
@@ -62,10 +235,17 @@
          23.0,
          171.0002
       ],
+      "width": 246.0,
       "x": 23.0,
       "y": 171.0002
    },
    {
+      "bbox": [
+         23.0,
+         159.0002,
+         29.0,
+         171.0002
+      ],
       "cm": [
          1.0,
          0.0,
@@ -74,6 +254,7 @@
          0.0,
          0.0
       ],
+      "height": 12.0,
       "operator": "Tj",
       "text": " ",
       "tm": [
@@ -84,10 +265,17 @@
          23.0,
          171.0002
       ],
+      "width": 6.0,
       "x": 23.0,
       "y": 171.0002
    },
    {
+      "bbox": [
+         23.0,
+         128.7002,
+         299.0,
+         140.7002
+      ],
       "cm": [
          1.0,
          0.0,
@@ -96,6 +284,7 @@
          0.0,
          0.0
       ],
+      "height": 12.0,
       "operator": "TJ",
       "text": "Set in California, France, and the Swiss Alps,",
       "tm": [
@@ -106,10 +295,17 @@
          23.0,
          140.7002
       ],
+      "width": 276.0,
       "x": 23.0,
       "y": 140.7002
    },
    {
+      "bbox": [
+         23.0,
+         128.7002,
+         29.0,
+         140.7002
+      ],
       "cm": [
          1.0,
          0.0,
@@ -118,6 +314,7 @@
          0.0,
          0.0
       ],
+      "height": 12.0,
       "operator": "Tj",
       "text": " ",
       "tm": [
@@ -128,10 +325,17 @@
          23.0,
          140.7002
       ],
+      "width": 6.0,
       "x": 23.0,
       "y": 140.7002
    },
    {
+      "bbox": [
+         228.4703,
+         128.7002,
+         318.4703,
+         140.7002
+      ],
       "cm": [
          1.0,
          0.0,
@@ -140,6 +344,7 @@
          0.0,
          0.0
       ],
+      "height": 12.0,
       "operator": "TJ",
       "text": "The Arrangement",
       "tm": [
@@ -150,10 +355,17 @@
          228.4703,
          140.7002
       ],
+      "width": 90.0,
       "x": 228.4703,
       "y": 140.7002
    },
    {
+      "bbox": [
+         308.6768,
+         128.7002,
+         314.6768,
+         140.7002
+      ],
       "cm": [
          1.0,
          0.0,
@@ -162,6 +374,7 @@
          0.0,
          0.0
       ],
+      "height": 12.0,
       "operator": "Tj",
       "text": " ",
       "tm": [
@@ -172,10 +385,17 @@
          308.6768,
          140.7002
       ],
+      "width": 6.0,
       "x": 308.6768,
       "y": 140.7002
    },
    {
+      "bbox": [
+         308.6768,
+         128.7002,
+         674.6768,
+         140.7002
+      ],
       "cm": [
          1.0,
          0.0,
@@ -184,6 +404,7 @@
          0.0,
          0.0
       ],
+      "height": 12.0,
       "operator": "TJ",
       "text": "is a sparkling, sensual novel that explores the complexities ",
       "tm": [
@@ -194,10 +415,17 @@
          308.6768,
          140.7002
       ],
+      "width": 366.0,
       "x": 308.6768,
       "y": 140.7002
    },
    {
+      "bbox": [
+         23.0,
+         113.5502,
+         731.0,
+         125.5502
+      ],
       "cm": [
          1.0,
          0.0,
@@ -206,6 +434,7 @@
          0.0,
          0.0
       ],
+      "height": 12.0,
       "operator": "TJ",
       "text": "of a marriage and the many different ways in which we love. Writing at the top of her game, Ashley Warlick gives us a ",
       "tm": [
@@ -216,10 +445,17 @@
          23.0,
          125.5502
       ],
+      "width": 708.0,
       "x": 23.0,
       "y": 125.5502
    },
    {
+      "bbox": [
+         23.0,
+         98.4002,
+         695.0,
+         110.4002
+      ],
       "cm": [
          1.0,
          0.0,
@@ -228,6 +464,7 @@
          0.0,
          0.0
       ],
+      "height": 12.0,
       "operator": "TJ",
       "text": "completely mesmerizing story about a woman well ahead of her time, who would go on to become the legendary food ",
       "tm": [
@@ -238,10 +475,17 @@
          23.0,
          110.4002
       ],
+      "width": 672.0,
       "x": 23.0,
       "y": 110.4002
    },
    {
+      "bbox": [
+         23.0,
+         83.2502,
+         161.0,
+         95.2502
+      ],
       "cm": [
          1.0,
          0.0,
@@ -250,6 +494,7 @@
          0.0,
          0.0
       ],
+      "height": 12.0,
       "operator": "TJ",
       "text": "writer M. F. K. Fisher.",
       "tm": [
@@ -260,10 +505,17 @@
          23.0,
          95.2502
       ],
+      "width": 138.0,
       "x": 23.0,
       "y": 95.2502
    },
    {
+      "bbox": [
+         40.8394,
+         699.2004,
+         754.8394,
+         733.2004
+      ],
       "cm": [
          1.0,
          0.0,
@@ -272,6 +524,7 @@
          0.0,
          0.0
       ],
+      "height": 34.0,
       "operator": "TJ",
       "text": "An irresistible novel of food and desire, ",
       "tm": [
@@ -282,10 +535,17 @@
          40.8394,
          733.2004
       ],
+      "width": 714.0,
       "x": 40.8394,
       "y": 733.2004
    },
    {
+      "bbox": [
+         131.7866,
+         678.2504,
+         583.2866,
+         699.2504
+      ],
       "cm": [
          1.0,
          0.0,
@@ -294,6 +554,7 @@
          0.0,
          0.0
       ],
+      "height": 21.0,
       "operator": "TJ",
       "text": "based on a real-life love triangle between ",
       "tm": [
@@ -304,10 +565,17 @@
          131.7866,
          699.2504
       ],
+      "width": 451.5,
       "x": 131.7866,
       "y": 699.2504
    },
    {
+      "bbox": [
+         96.3498,
+         649.0504,
+         600.3498,
+         670.0504
+      ],
       "cm": [
          1.0,
          0.0,
@@ -316,6 +584,7 @@
          0.0,
          0.0
       ],
+      "height": 21.0,
       "operator": "Tj",
       "text": "a young woman, her husband, and his best friend.",
       "tm": [
@@ -326,6 +595,7 @@
          96.3498,
          670.0504
       ],
+      "width": 504.0,
       "x": 96.3498,
       "y": 670.0504
    }

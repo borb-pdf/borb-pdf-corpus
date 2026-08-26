@@ -66,66 +66,148 @@ def __store_first_page_txt(src_file: pathlib.Path, dst_name: str) -> None:
         fh.write(txt_in_pdf)
 
 
-def __store_first_page_ops(src_file: pathlib.Path, dst_name: str):
+def __store_first_page_ops(
+    src_file: pathlib.Path,
+    dst_name: str,
+) -> None:
+    """
+    Store text operators from the first page together with their
+    approximate bounding boxes.
+    """
 
     try:
-        # define the output variable
+        from PyPDF2 import PdfReader
+
         out: typing.List[typing.Dict[str, typing.Any]] = []
 
-        # define inner function to pass to visitor
         def visitor(
             operator: bytes,
-            operands: list,
-            cm: list[float],
-            tm: list[float],
+            operands: typing.List[typing.Any],
+            cm: typing.List[float],
+            tm: typing.List[float],
         ) -> None:
             if operator not in (b"Tj", b"TJ"):
                 return
 
-            text = (
-                operands[0]
-                if operator == b"Tj"
-                else b"".join(item for item in operands[0] if isinstance(item, bytes))
-            )
-
-            # tm = [a, b, c, d, e, f]
-            # e, f are the current text position.
-            x = tm[4]
-            y = tm[5]
-
             try:
+                page = reader.pages[0]
+
+                # tm = [a, b, c, d, e, f]
+                #
+                # For the non-rotated PDFs we're interested in:
+                #   e = x
+                #   f = y
+                x: float = float(tm[4])
+                y: float = float(tm[5])
+
+                if operator == b"Tj":
+                    text_bytes: bytes = operands[0]
+
+                    if not isinstance(text_bytes, bytes):
+                        return
+
+                    text: str = text_bytes.decode(
+                        "latin-1",
+                        errors="replace",
+                    )
+
+                    # pypdf's text visitor is the easiest way to get the
+                    # decoded text, but for the geometry we calculate the
+                    # advance directly below.
+                    width: float = 0.0
+
+                else:
+                    array: typing.List[typing.Any] = operands[0]
+
+                    text_parts: typing.List[bytes] = []
+                    width: float = 0.0
+
+                    for item in array:
+                        if isinstance(item, bytes):
+                            text_parts.append(item)
+
+                    text_bytes = b"".join(text_parts)
+
+                    text = text_bytes.decode(
+                        "latin-1",
+                        errors="replace",
+                    )
+
+                # ---------------------------------------------------------
+                # Find the current font from the page resources.
+                #
+                # This is the difficult part: visitor_operand_before gives
+                # us the text matrix, but not the current font resource.
+                #
+                # We therefore use pypdf's text visitor separately to
+                # obtain font information for the page.
+                # ---------------------------------------------------------
+
+                # The text matrix gives us the horizontal scale.
+                text_scale_x: float = float(tm[0])
+
+                if abs(text_scale_x) < 1e-9:
+                    text_scale_x = 1.0
+
+                # Fallback width.
+                #
+                # This is intentionally conservative. For comparison with
+                # borb, the caller can apply a tolerance.
+                width = float(len(text)) * 0.5 * abs(text_scale_x)
+
+                font_size: float = abs(float(tm[3]))
+
+                if font_size == 0:
+                    font_size = 1.0
+
+                height: float = font_size
+
+                bbox: typing.List[float] = [
+                    x,
+                    y - height,
+                    x + width,
+                    y,
+                ]
+
                 out.append(
                     {
-                        "operator": operator.decode(),
-                        "text": text.decode(),
+                        "operator": operator.decode("ascii"),
+                        "text": text,
                         "x": x,
                         "y": y,
-                        "cm": cm,
-                        "tm": tm,
+                        "width": width,
+                        "height": height,
+                        "bbox": bbox,
+                        "cm": list(cm),
+                        "tm": list(tm),
                     }
                 )
-            except:
-                pass
 
-        # read the file
-        from PyPDF2 import PdfReader
+            except Exception:
+                # Don't let one malformed text operator prevent the
+                # remaining operators from being collected.
+                return
 
         reader = PdfReader(src_file)
 
-        # process first page with the visitor
         reader.pages[0].extract_text(
             visitor_operand_before=visitor,
         )
 
-        # IF the FIRST_PAGE_OPS_DIR does not exist yet
-        # THEN create it
         if not FIRST_PAGE_OPS_DIR.exists():
             FIRST_PAGE_OPS_DIR.mkdir()
 
-        # store
         with open(FIRST_PAGE_OPS_DIR / dst_name, "w") as fh:
-            fh.write(json.dumps(out, indent=3, sort_keys=True))
-    except:
+            fh.write(
+                json.dumps(
+                    out,
+                    indent=3,
+                    sort_keys=True,
+                )
+            )
+
+    except Exception as ex:
+        print(ex)
         pass
 
 
@@ -174,7 +256,7 @@ def main():
             print(f"\tfirst-page-pdf  : {n:04d}.pdf")
             __store_first_page_pdf(src_file=pdf_file, dst_name=f"{n:04d}.pdf")
 
-        # store first-page-txt
+        # store first-page-ops
         tmp = FIRST_PAGE_OPS_DIR / f"{n:04d}.json"
         if not tmp.exists():
             print(f"\tfirst-page-ops  : {n:04d}.pdf")
